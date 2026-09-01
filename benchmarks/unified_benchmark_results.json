@@ -1,0 +1,955 @@
+{
+  "summary": {
+    "skills_tested": 47,
+    "tests_per_skill": 11,
+    "total_tests": 517,
+    "passed_tests": 517,
+    "failed_tests": 0,
+    "avg_score": 10.0,
+    "min_score": 10.0,
+    "max_score": 10.0,
+    "skills_at_10": 47
+  },
+  "results": [
+    {
+      "skill": "agent-evaluation-security-governance",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "a5f39bba52af5cd8427f37238c426280de4286605c85d3d448d6d1a93dda3c50"
+    },
+    {
+      "skill": "agent-orchestration-workflows",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "619f5b56e6eecc2e28a41e7ad8b4fc565f58c67452a741314e7fd93b301cb674"
+    },
+    {
+      "skill": "agentic-memory-architecture",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "86d7924edb13a7bae92662e3dc680eeba3b833ef771604898f41b7d08b8cc26b"
+    },
+    {
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "79598c38755ec101608b61483c87b538d8dd15e1623803390151a33b4c97cd94"
+    },
+    {
+      "skill": "ai-trading-research-agents",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "b62c2f90d1591decbb117ab21ca37810979e8f7b48980f5fa87c54a0ad3c4af9"
+    },
+    {
+      "skill": "api-backend-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "6cba6683baa1eed0e02874a6cf97e16b8770f4a65b2e2583acd293ae18358527"
+    },
+    {
+      "skill": "blender-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "0aafa90a1c96052c536e4baf39be56e5cd0b0e599247d9e0ab9f9b19d48817c4"
+    },
+    {
+      "skill": "brand-fidelity-strategy",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "cf00cda8672d9046b3c11a9ded1941a95f260f3f82c1f591e4bea85d57e8a8fd"
+    },
+    {
+      "skill": "computer-use",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "3434fb1972249fb315e5d14ead1790bdb7627f5ff6f1670c63f8fa776d5730db"
+    },
+    {
+      "skill": "computer-vision",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "cfa66e2f11f55485c9dae0744847e14ffeeabdabf0ecbb3b86999b4d4c25e3c9"
+    },
+    {
+      "skill": "cybersecurity",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "4d8ef295f1b84cb6d209dbfb34ddfaf9aa45e817fd4d4ea0f2c102a76670250e"
+    },
+    {
+      "skill": "design-open-source-and-research-discovery",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "21e4c46a8399ac86c6c39c1ea7174dd331bb0945bcd864d12a3b68df168c386d"
+    },
+    {
+      "skill": "devops-sre",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "0aa26d53de143f6db335c5e56cb6e74a7815f56ffc3911ce78473d2fabe0ddaf"
+    },
+    {
+      "skill": "docker-kubernetes",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "a63f0feac72ecd835242299f0d27bee2ef276e18d87334375cbdaa8c4a8c647d"
+    },
+    {
+      "skill": "event-driven-agent-architecture",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "182963344f6b0fad974b43e8ba1a8bd1ff805736cc2a4ec07c6cf3547dde4a58"
+    },
+    {
+      "skill": "exchange-market-connectors",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "4f141eef5b90aa79d7afe80f148ff12baec7f1a9aed094055303b786ce468513"
+    },
+    {
+      "skill": "execution-controller-and-tool-governance",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "9df3d7e237275821d8db3dd18bd5af158dcbdca9318e6ec46853986bebad9094"
+    },
+    {
+      "skill": "financial-risk",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "97a21b05276d14dd170764835a4b215f5bebdf0c0dd0582ee06400a6d52527b8"
+    },
+    {
+      "skill": "git-github-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "35227aad61d923b9aceb29aa3a46d09251ed8f6df9f8e622f85230496e25c3c5"
+    },
+    {
+      "skill": "integrated-agentic-systems-architect",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "4daae98463b81d16d55ae7904db87c36de727bd22339c1baf98bdfa1f641bca9"
+    },
+    {
+      "skill": "integrated-ai-development-architect",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "4253d198b6985dd884807a0e564482469db0b939663e0e491e4c07ba1e093223"
+    },
+    {
+      "skill": "linux-windows-automation",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "80c5f14db26d2d7eeb8dda2519816d49a259303f4f9f91b737b204d189c38d7b"
+    },
+    {
+      "skill": "llm-model-engineering-and-serving",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "85c08862761712d1298895ba17d2ec3a6d8a77779cdae720a3fd92cdd00448f0"
+    },
+    {
+      "skill": "market-visual-research-and-ai-trading",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "2580f842f13f409a14bd36e2d9f7e2e56c643aa493c4002f6d46ec90e978efae"
+    },
+    {
+      "skill": "mathematical-statistical-reasoning",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "d472ea25809b50b26a54b0b1569b51bf6a649ed9e39f29fcf7560bd71b37c0d4"
+    },
+    {
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "0e8c7c3ff5be39d4b74e28b132b49f6870cac2fc72d4f89fb0ebcbde173ff767"
+    },
+    {
+      "skill": "music-rights-metadata-governance",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "e5b741d5effd12ece713e3b947447f8d9c966d65425fed21373ba9b629b3abf7"
+    },
+    {
+      "skill": "omniroute-gateway-and-adaptive-routing",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "647958edff7af2cd11500948f9a0b70df4b9a334ff32295970e5c3afcf786cb0"
+    },
+    {
+      "skill": "python-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "e1064c8cd865dce2acf1d668da713a78e1fc2b2305f26c697800d4fe3f686d52"
+    },
+    {
+      "skill": "quant-trading-research-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "4fd9bfcd910a15f0525deab157defc5d0410d6a75ec39793517fb81aa6e5b386"
+    },
+    {
+      "skill": "rag-knowledge-memory-systems",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "aaa53632385d792780095852ea915fe5922ab72121e97a422232eeb05a784968"
+    },
+    {
+      "skill": "react-nextjs-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "894f5b84c55bf153160bab3cb6f83bda9deaa066a8ba42a66d147f59123ec840"
+    },
+    {
+      "skill": "realtime-rag-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "d33c1c5d268eab06bf638c29f470301b789ef66ec7f0b5ad57ca74be00e78cce"
+    },
+    {
+      "skill": "research-evidence-and-provenance",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "a4d88482307939ee85ddbdcf30eadfa63f27a273707e1d885443f66e51e42424"
+    },
+    {
+      "skill": "skill-evaluation-and-continuous-learning",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "f8a997b43d3704116e1a98a5b7ef8f5baa690291cbefabeb1384dc2b3b5685ca"
+    },
+    {
+      "skill": "skill-router-and-composer",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "65a235fbd4c6407d69bea6cd8522c90077628cb69aa5d900c350282a7b64e879"
+    },
+    {
+      "skill": "speech-audio-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "1ddd65762c7edc47e8771d77b28e81a55752d0d9028c1fc1f71a716f86a7393c"
+    },
+    {
+      "skill": "sql-database-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "78703b1ede42c9490525ee27223822d8dcc6f345fa3d88b885451c8f9d9aecda"
+    },
+    {
+      "skill": "testing-qa",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "67a22c62dda2667a89ed712120c8df1ea4b7559ce39531255a5875f559dee348"
+    },
+    {
+      "skill": "typescript-javascript-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "17ff70d2616b1ca4e1dcd97551dfe8da65efac87418ca2d9ba3f0521b355b089"
+    },
+    {
+      "skill": "ui-ux-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "0a3485830e3f6de51094f6c116a1cc6d1a33c7c9c721d9cd835c4358b78b4229"
+    },
+    {
+      "skill": "unity-engineering",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "ec3c25fa385db02fedefb3506e8c7bb956670fc1099c2f40e1ddc237a0bf1a8c"
+    },
+    {
+      "skill": "venu-universal-engineering-orchestrator",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "4f984c0c40db5640a4836eb3bd022edb2c6bde3ac92b6b4c93127df6e1526ab0"
+    },
+    {
+      "skill": "vfx-motion-graphics",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "ea8f7de3d93738a4f4107b0b6a878faeb89c0f36d666f5cdd5664ac26fe7c9b6"
+    },
+    {
+      "skill": "web-intelligence-and-browser-agents",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "6c29f5ba0e701385dcda6b2d32cd2a3caa9c5bd32ec1e9c464543fd6521d1fc4"
+    },
+    {
+      "skill": "web-rag-ocr-document-intelligence",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "c4c4b8ccad4a7b990cacf192c11b6abdf5af420f253025a1ab823f4b2ce1f9b2"
+    },
+    {
+      "skill": "webar-8thwall-zappar",
+      "score": 10.0,
+      "passed": 11,
+      "total": 11,
+      "tests": {
+        "metadata": true,
+        "happy_path": true,
+        "ambiguous_input": true,
+        "adversarial_security": true,
+        "composition": true,
+        "version_recovery_provenance": true,
+        "quality_contract": true,
+        "research_sources": true,
+        "domain_specificity": true,
+        "no_placeholders": true,
+        "no_unsafe_positive_guarantee": true
+      },
+      "sha256": "57764e0666d46f0d3ce65e059d4de3eeab070d525f9c264e7435dfee7367014e"
+    }
+  ]
+}

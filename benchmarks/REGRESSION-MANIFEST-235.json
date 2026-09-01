@@ -1,0 +1,1650 @@
+{
+  "count": 235,
+  "tests": [
+    {
+      "id": "agent-evaluation-security-governance:happy_path",
+      "skill": "agent-evaluation-security-governance",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-evaluation-security-governance:ambiguous_input",
+      "skill": "agent-evaluation-security-governance",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-evaluation-security-governance:adversarial_failure_security",
+      "skill": "agent-evaluation-security-governance",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-evaluation-security-governance:cross_skill_composition",
+      "skill": "agent-evaluation-security-governance",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-evaluation-security-governance:version_recovery_provenance",
+      "skill": "agent-evaluation-security-governance",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-orchestration-workflows:happy_path",
+      "skill": "agent-orchestration-workflows",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-orchestration-workflows:ambiguous_input",
+      "skill": "agent-orchestration-workflows",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-orchestration-workflows:adversarial_failure_security",
+      "skill": "agent-orchestration-workflows",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-orchestration-workflows:cross_skill_composition",
+      "skill": "agent-orchestration-workflows",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agent-orchestration-workflows:version_recovery_provenance",
+      "skill": "agent-orchestration-workflows",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agentic-memory-architecture:happy_path",
+      "skill": "agentic-memory-architecture",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agentic-memory-architecture:ambiguous_input",
+      "skill": "agentic-memory-architecture",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agentic-memory-architecture:adversarial_failure_security",
+      "skill": "agentic-memory-architecture",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agentic-memory-architecture:cross_skill_composition",
+      "skill": "agentic-memory-architecture",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "agentic-memory-architecture:version_recovery_provenance",
+      "skill": "agentic-memory-architecture",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-infrastructure-vps-docker-runtime:happy_path",
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-infrastructure-vps-docker-runtime:ambiguous_input",
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-infrastructure-vps-docker-runtime:adversarial_failure_security",
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-infrastructure-vps-docker-runtime:cross_skill_composition",
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-infrastructure-vps-docker-runtime:version_recovery_provenance",
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-trading-research-agents:happy_path",
+      "skill": "ai-trading-research-agents",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-trading-research-agents:ambiguous_input",
+      "skill": "ai-trading-research-agents",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-trading-research-agents:adversarial_failure_security",
+      "skill": "ai-trading-research-agents",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-trading-research-agents:cross_skill_composition",
+      "skill": "ai-trading-research-agents",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ai-trading-research-agents:version_recovery_provenance",
+      "skill": "ai-trading-research-agents",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "api-backend-engineering:happy_path",
+      "skill": "api-backend-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "api-backend-engineering:ambiguous_input",
+      "skill": "api-backend-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "api-backend-engineering:adversarial_failure_security",
+      "skill": "api-backend-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "api-backend-engineering:cross_skill_composition",
+      "skill": "api-backend-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "api-backend-engineering:version_recovery_provenance",
+      "skill": "api-backend-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "blender-engineering:happy_path",
+      "skill": "blender-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "blender-engineering:ambiguous_input",
+      "skill": "blender-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "blender-engineering:adversarial_failure_security",
+      "skill": "blender-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "blender-engineering:cross_skill_composition",
+      "skill": "blender-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "blender-engineering:version_recovery_provenance",
+      "skill": "blender-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "brand-fidelity-strategy:happy_path",
+      "skill": "brand-fidelity-strategy",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "brand-fidelity-strategy:ambiguous_input",
+      "skill": "brand-fidelity-strategy",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "brand-fidelity-strategy:adversarial_failure_security",
+      "skill": "brand-fidelity-strategy",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "brand-fidelity-strategy:cross_skill_composition",
+      "skill": "brand-fidelity-strategy",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "brand-fidelity-strategy:version_recovery_provenance",
+      "skill": "brand-fidelity-strategy",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-use:happy_path",
+      "skill": "computer-use",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-use:ambiguous_input",
+      "skill": "computer-use",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-use:adversarial_failure_security",
+      "skill": "computer-use",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-use:cross_skill_composition",
+      "skill": "computer-use",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-use:version_recovery_provenance",
+      "skill": "computer-use",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-vision:happy_path",
+      "skill": "computer-vision",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-vision:ambiguous_input",
+      "skill": "computer-vision",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-vision:adversarial_failure_security",
+      "skill": "computer-vision",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-vision:cross_skill_composition",
+      "skill": "computer-vision",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "computer-vision:version_recovery_provenance",
+      "skill": "computer-vision",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "cybersecurity:happy_path",
+      "skill": "cybersecurity",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "cybersecurity:ambiguous_input",
+      "skill": "cybersecurity",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "cybersecurity:adversarial_failure_security",
+      "skill": "cybersecurity",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "cybersecurity:cross_skill_composition",
+      "skill": "cybersecurity",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "cybersecurity:version_recovery_provenance",
+      "skill": "cybersecurity",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "design-open-source-and-research-discovery:happy_path",
+      "skill": "design-open-source-and-research-discovery",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "design-open-source-and-research-discovery:ambiguous_input",
+      "skill": "design-open-source-and-research-discovery",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "design-open-source-and-research-discovery:adversarial_failure_security",
+      "skill": "design-open-source-and-research-discovery",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "design-open-source-and-research-discovery:cross_skill_composition",
+      "skill": "design-open-source-and-research-discovery",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "design-open-source-and-research-discovery:version_recovery_provenance",
+      "skill": "design-open-source-and-research-discovery",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "devops-sre:happy_path",
+      "skill": "devops-sre",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "devops-sre:ambiguous_input",
+      "skill": "devops-sre",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "devops-sre:adversarial_failure_security",
+      "skill": "devops-sre",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "devops-sre:cross_skill_composition",
+      "skill": "devops-sre",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "devops-sre:version_recovery_provenance",
+      "skill": "devops-sre",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "docker-kubernetes:happy_path",
+      "skill": "docker-kubernetes",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "docker-kubernetes:ambiguous_input",
+      "skill": "docker-kubernetes",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "docker-kubernetes:adversarial_failure_security",
+      "skill": "docker-kubernetes",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "docker-kubernetes:cross_skill_composition",
+      "skill": "docker-kubernetes",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "docker-kubernetes:version_recovery_provenance",
+      "skill": "docker-kubernetes",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "event-driven-agent-architecture:happy_path",
+      "skill": "event-driven-agent-architecture",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "event-driven-agent-architecture:ambiguous_input",
+      "skill": "event-driven-agent-architecture",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "event-driven-agent-architecture:adversarial_failure_security",
+      "skill": "event-driven-agent-architecture",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "event-driven-agent-architecture:cross_skill_composition",
+      "skill": "event-driven-agent-architecture",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "event-driven-agent-architecture:version_recovery_provenance",
+      "skill": "event-driven-agent-architecture",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "exchange-market-connectors:happy_path",
+      "skill": "exchange-market-connectors",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "exchange-market-connectors:ambiguous_input",
+      "skill": "exchange-market-connectors",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "exchange-market-connectors:adversarial_failure_security",
+      "skill": "exchange-market-connectors",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "exchange-market-connectors:cross_skill_composition",
+      "skill": "exchange-market-connectors",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "exchange-market-connectors:version_recovery_provenance",
+      "skill": "exchange-market-connectors",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "execution-controller-and-tool-governance:happy_path",
+      "skill": "execution-controller-and-tool-governance",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "execution-controller-and-tool-governance:ambiguous_input",
+      "skill": "execution-controller-and-tool-governance",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "execution-controller-and-tool-governance:adversarial_failure_security",
+      "skill": "execution-controller-and-tool-governance",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "execution-controller-and-tool-governance:cross_skill_composition",
+      "skill": "execution-controller-and-tool-governance",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "execution-controller-and-tool-governance:version_recovery_provenance",
+      "skill": "execution-controller-and-tool-governance",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "financial-risk:happy_path",
+      "skill": "financial-risk",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "financial-risk:ambiguous_input",
+      "skill": "financial-risk",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "financial-risk:adversarial_failure_security",
+      "skill": "financial-risk",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "financial-risk:cross_skill_composition",
+      "skill": "financial-risk",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "financial-risk:version_recovery_provenance",
+      "skill": "financial-risk",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "git-github-engineering:happy_path",
+      "skill": "git-github-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "git-github-engineering:ambiguous_input",
+      "skill": "git-github-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "git-github-engineering:adversarial_failure_security",
+      "skill": "git-github-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "git-github-engineering:cross_skill_composition",
+      "skill": "git-github-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "git-github-engineering:version_recovery_provenance",
+      "skill": "git-github-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-agentic-systems-architect:happy_path",
+      "skill": "integrated-agentic-systems-architect",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-agentic-systems-architect:ambiguous_input",
+      "skill": "integrated-agentic-systems-architect",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-agentic-systems-architect:adversarial_failure_security",
+      "skill": "integrated-agentic-systems-architect",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-agentic-systems-architect:cross_skill_composition",
+      "skill": "integrated-agentic-systems-architect",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-agentic-systems-architect:version_recovery_provenance",
+      "skill": "integrated-agentic-systems-architect",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-ai-development-architect:happy_path",
+      "skill": "integrated-ai-development-architect",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-ai-development-architect:ambiguous_input",
+      "skill": "integrated-ai-development-architect",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-ai-development-architect:adversarial_failure_security",
+      "skill": "integrated-ai-development-architect",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-ai-development-architect:cross_skill_composition",
+      "skill": "integrated-ai-development-architect",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "integrated-ai-development-architect:version_recovery_provenance",
+      "skill": "integrated-ai-development-architect",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "linux-windows-automation:happy_path",
+      "skill": "linux-windows-automation",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "linux-windows-automation:ambiguous_input",
+      "skill": "linux-windows-automation",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "linux-windows-automation:adversarial_failure_security",
+      "skill": "linux-windows-automation",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "linux-windows-automation:cross_skill_composition",
+      "skill": "linux-windows-automation",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "linux-windows-automation:version_recovery_provenance",
+      "skill": "linux-windows-automation",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "llm-model-engineering-and-serving:happy_path",
+      "skill": "llm-model-engineering-and-serving",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "llm-model-engineering-and-serving:ambiguous_input",
+      "skill": "llm-model-engineering-and-serving",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "llm-model-engineering-and-serving:adversarial_failure_security",
+      "skill": "llm-model-engineering-and-serving",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "llm-model-engineering-and-serving:cross_skill_composition",
+      "skill": "llm-model-engineering-and-serving",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "llm-model-engineering-and-serving:version_recovery_provenance",
+      "skill": "llm-model-engineering-and-serving",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "market-visual-research-and-ai-trading:happy_path",
+      "skill": "market-visual-research-and-ai-trading",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "market-visual-research-and-ai-trading:ambiguous_input",
+      "skill": "market-visual-research-and-ai-trading",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "market-visual-research-and-ai-trading:adversarial_failure_security",
+      "skill": "market-visual-research-and-ai-trading",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "market-visual-research-and-ai-trading:cross_skill_composition",
+      "skill": "market-visual-research-and-ai-trading",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "market-visual-research-and-ai-trading:version_recovery_provenance",
+      "skill": "market-visual-research-and-ai-trading",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mathematical-statistical-reasoning:happy_path",
+      "skill": "mathematical-statistical-reasoning",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mathematical-statistical-reasoning:ambiguous_input",
+      "skill": "mathematical-statistical-reasoning",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mathematical-statistical-reasoning:adversarial_failure_security",
+      "skill": "mathematical-statistical-reasoning",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mathematical-statistical-reasoning:cross_skill_composition",
+      "skill": "mathematical-statistical-reasoning",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mathematical-statistical-reasoning:version_recovery_provenance",
+      "skill": "mathematical-statistical-reasoning",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mcp-tooling-and-ai-gateway-ecosystem:happy_path",
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mcp-tooling-and-ai-gateway-ecosystem:ambiguous_input",
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mcp-tooling-and-ai-gateway-ecosystem:adversarial_failure_security",
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mcp-tooling-and-ai-gateway-ecosystem:cross_skill_composition",
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "mcp-tooling-and-ai-gateway-ecosystem:version_recovery_provenance",
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "music-rights-metadata-governance:happy_path",
+      "skill": "music-rights-metadata-governance",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "music-rights-metadata-governance:ambiguous_input",
+      "skill": "music-rights-metadata-governance",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "music-rights-metadata-governance:adversarial_failure_security",
+      "skill": "music-rights-metadata-governance",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "music-rights-metadata-governance:cross_skill_composition",
+      "skill": "music-rights-metadata-governance",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "music-rights-metadata-governance:version_recovery_provenance",
+      "skill": "music-rights-metadata-governance",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "omniroute-gateway-and-adaptive-routing:happy_path",
+      "skill": "omniroute-gateway-and-adaptive-routing",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "omniroute-gateway-and-adaptive-routing:ambiguous_input",
+      "skill": "omniroute-gateway-and-adaptive-routing",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "omniroute-gateway-and-adaptive-routing:adversarial_failure_security",
+      "skill": "omniroute-gateway-and-adaptive-routing",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "omniroute-gateway-and-adaptive-routing:cross_skill_composition",
+      "skill": "omniroute-gateway-and-adaptive-routing",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "omniroute-gateway-and-adaptive-routing:version_recovery_provenance",
+      "skill": "omniroute-gateway-and-adaptive-routing",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "python-engineering:happy_path",
+      "skill": "python-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "python-engineering:ambiguous_input",
+      "skill": "python-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "python-engineering:adversarial_failure_security",
+      "skill": "python-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "python-engineering:cross_skill_composition",
+      "skill": "python-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "python-engineering:version_recovery_provenance",
+      "skill": "python-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "quant-trading-research-engineering:happy_path",
+      "skill": "quant-trading-research-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "quant-trading-research-engineering:ambiguous_input",
+      "skill": "quant-trading-research-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "quant-trading-research-engineering:adversarial_failure_security",
+      "skill": "quant-trading-research-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "quant-trading-research-engineering:cross_skill_composition",
+      "skill": "quant-trading-research-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "quant-trading-research-engineering:version_recovery_provenance",
+      "skill": "quant-trading-research-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "rag-knowledge-memory-systems:happy_path",
+      "skill": "rag-knowledge-memory-systems",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "rag-knowledge-memory-systems:ambiguous_input",
+      "skill": "rag-knowledge-memory-systems",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "rag-knowledge-memory-systems:adversarial_failure_security",
+      "skill": "rag-knowledge-memory-systems",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "rag-knowledge-memory-systems:cross_skill_composition",
+      "skill": "rag-knowledge-memory-systems",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "rag-knowledge-memory-systems:version_recovery_provenance",
+      "skill": "rag-knowledge-memory-systems",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "react-nextjs-engineering:happy_path",
+      "skill": "react-nextjs-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "react-nextjs-engineering:ambiguous_input",
+      "skill": "react-nextjs-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "react-nextjs-engineering:adversarial_failure_security",
+      "skill": "react-nextjs-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "react-nextjs-engineering:cross_skill_composition",
+      "skill": "react-nextjs-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "react-nextjs-engineering:version_recovery_provenance",
+      "skill": "react-nextjs-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "realtime-rag-engineering:happy_path",
+      "skill": "realtime-rag-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "realtime-rag-engineering:ambiguous_input",
+      "skill": "realtime-rag-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "realtime-rag-engineering:adversarial_failure_security",
+      "skill": "realtime-rag-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "realtime-rag-engineering:cross_skill_composition",
+      "skill": "realtime-rag-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "realtime-rag-engineering:version_recovery_provenance",
+      "skill": "realtime-rag-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "research-evidence-and-provenance:happy_path",
+      "skill": "research-evidence-and-provenance",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "research-evidence-and-provenance:ambiguous_input",
+      "skill": "research-evidence-and-provenance",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "research-evidence-and-provenance:adversarial_failure_security",
+      "skill": "research-evidence-and-provenance",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "research-evidence-and-provenance:cross_skill_composition",
+      "skill": "research-evidence-and-provenance",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "research-evidence-and-provenance:version_recovery_provenance",
+      "skill": "research-evidence-and-provenance",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-evaluation-and-continuous-learning:happy_path",
+      "skill": "skill-evaluation-and-continuous-learning",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-evaluation-and-continuous-learning:ambiguous_input",
+      "skill": "skill-evaluation-and-continuous-learning",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-evaluation-and-continuous-learning:adversarial_failure_security",
+      "skill": "skill-evaluation-and-continuous-learning",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-evaluation-and-continuous-learning:cross_skill_composition",
+      "skill": "skill-evaluation-and-continuous-learning",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-evaluation-and-continuous-learning:version_recovery_provenance",
+      "skill": "skill-evaluation-and-continuous-learning",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-router-and-composer:happy_path",
+      "skill": "skill-router-and-composer",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-router-and-composer:ambiguous_input",
+      "skill": "skill-router-and-composer",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-router-and-composer:adversarial_failure_security",
+      "skill": "skill-router-and-composer",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-router-and-composer:cross_skill_composition",
+      "skill": "skill-router-and-composer",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "skill-router-and-composer:version_recovery_provenance",
+      "skill": "skill-router-and-composer",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "speech-audio-engineering:happy_path",
+      "skill": "speech-audio-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "speech-audio-engineering:ambiguous_input",
+      "skill": "speech-audio-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "speech-audio-engineering:adversarial_failure_security",
+      "skill": "speech-audio-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "speech-audio-engineering:cross_skill_composition",
+      "skill": "speech-audio-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "speech-audio-engineering:version_recovery_provenance",
+      "skill": "speech-audio-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "sql-database-engineering:happy_path",
+      "skill": "sql-database-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "sql-database-engineering:ambiguous_input",
+      "skill": "sql-database-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "sql-database-engineering:adversarial_failure_security",
+      "skill": "sql-database-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "sql-database-engineering:cross_skill_composition",
+      "skill": "sql-database-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "sql-database-engineering:version_recovery_provenance",
+      "skill": "sql-database-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "testing-qa:happy_path",
+      "skill": "testing-qa",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "testing-qa:ambiguous_input",
+      "skill": "testing-qa",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "testing-qa:adversarial_failure_security",
+      "skill": "testing-qa",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "testing-qa:cross_skill_composition",
+      "skill": "testing-qa",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "testing-qa:version_recovery_provenance",
+      "skill": "testing-qa",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "typescript-javascript-engineering:happy_path",
+      "skill": "typescript-javascript-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "typescript-javascript-engineering:ambiguous_input",
+      "skill": "typescript-javascript-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "typescript-javascript-engineering:adversarial_failure_security",
+      "skill": "typescript-javascript-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "typescript-javascript-engineering:cross_skill_composition",
+      "skill": "typescript-javascript-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "typescript-javascript-engineering:version_recovery_provenance",
+      "skill": "typescript-javascript-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ui-ux-engineering:happy_path",
+      "skill": "ui-ux-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ui-ux-engineering:ambiguous_input",
+      "skill": "ui-ux-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ui-ux-engineering:adversarial_failure_security",
+      "skill": "ui-ux-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ui-ux-engineering:cross_skill_composition",
+      "skill": "ui-ux-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "ui-ux-engineering:version_recovery_provenance",
+      "skill": "ui-ux-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "unity-engineering:happy_path",
+      "skill": "unity-engineering",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "unity-engineering:ambiguous_input",
+      "skill": "unity-engineering",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "unity-engineering:adversarial_failure_security",
+      "skill": "unity-engineering",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "unity-engineering:cross_skill_composition",
+      "skill": "unity-engineering",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "unity-engineering:version_recovery_provenance",
+      "skill": "unity-engineering",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "venu-universal-engineering-orchestrator:happy_path",
+      "skill": "venu-universal-engineering-orchestrator",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "venu-universal-engineering-orchestrator:ambiguous_input",
+      "skill": "venu-universal-engineering-orchestrator",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "venu-universal-engineering-orchestrator:adversarial_failure_security",
+      "skill": "venu-universal-engineering-orchestrator",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "venu-universal-engineering-orchestrator:cross_skill_composition",
+      "skill": "venu-universal-engineering-orchestrator",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "venu-universal-engineering-orchestrator:version_recovery_provenance",
+      "skill": "venu-universal-engineering-orchestrator",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "vfx-motion-graphics:happy_path",
+      "skill": "vfx-motion-graphics",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "vfx-motion-graphics:ambiguous_input",
+      "skill": "vfx-motion-graphics",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "vfx-motion-graphics:adversarial_failure_security",
+      "skill": "vfx-motion-graphics",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "vfx-motion-graphics:cross_skill_composition",
+      "skill": "vfx-motion-graphics",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "vfx-motion-graphics:version_recovery_provenance",
+      "skill": "vfx-motion-graphics",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-intelligence-and-browser-agents:happy_path",
+      "skill": "web-intelligence-and-browser-agents",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-intelligence-and-browser-agents:ambiguous_input",
+      "skill": "web-intelligence-and-browser-agents",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-intelligence-and-browser-agents:adversarial_failure_security",
+      "skill": "web-intelligence-and-browser-agents",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-intelligence-and-browser-agents:cross_skill_composition",
+      "skill": "web-intelligence-and-browser-agents",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-intelligence-and-browser-agents:version_recovery_provenance",
+      "skill": "web-intelligence-and-browser-agents",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-rag-ocr-document-intelligence:happy_path",
+      "skill": "web-rag-ocr-document-intelligence",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-rag-ocr-document-intelligence:ambiguous_input",
+      "skill": "web-rag-ocr-document-intelligence",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-rag-ocr-document-intelligence:adversarial_failure_security",
+      "skill": "web-rag-ocr-document-intelligence",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-rag-ocr-document-intelligence:cross_skill_composition",
+      "skill": "web-rag-ocr-document-intelligence",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "web-rag-ocr-document-intelligence:version_recovery_provenance",
+      "skill": "web-rag-ocr-document-intelligence",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "webar-8thwall-zappar:happy_path",
+      "skill": "webar-8thwall-zappar",
+      "scenario": "happy_path",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "webar-8thwall-zappar:ambiguous_input",
+      "skill": "webar-8thwall-zappar",
+      "scenario": "ambiguous_input",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "webar-8thwall-zappar:adversarial_failure_security",
+      "skill": "webar-8thwall-zappar",
+      "scenario": "adversarial_failure_security",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "webar-8thwall-zappar:cross_skill_composition",
+      "skill": "webar-8thwall-zappar",
+      "scenario": "cross_skill_composition",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    },
+    {
+      "id": "webar-8thwall-zappar:version_recovery_provenance",
+      "skill": "webar-8thwall-zappar",
+      "scenario": "version_recovery_provenance",
+      "status": "runtime-pending",
+      "pass_criterion": "observable evidence + correct assumptions + safe side-effect boundaries + reproducible result"
+    }
+  ]
+}

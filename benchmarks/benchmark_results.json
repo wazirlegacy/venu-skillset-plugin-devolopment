@@ -1,0 +1,1468 @@
+{
+  "skills_tested": 47,
+  "scores": [
+    {
+      "skill": "agent-evaluation-security-governance",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "8e0759163d8f5705258b1b563acbab321540518bb6eb128a76bd7dc94704ebee",
+      "chars": 5794
+    },
+    {
+      "skill": "agent-orchestration-workflows",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "e550f27d14de5aa78f7c49b13454e755cf23e947a6bdd3548c9d3afe2584b1b9",
+      "chars": 6388
+    },
+    {
+      "skill": "agentic-memory-architecture",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "ca0fbc5055cd7e6efb6f85b494c1b990b6146cb685bb6fa6b2f82fbfb2e94116",
+      "chars": 10824
+    },
+    {
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "ed0aa5b2498cd9263d4d7f20865106244e8d0d1708d69301a0d1d138c1811ebf",
+      "chars": 5959
+    },
+    {
+      "skill": "ai-trading-research-agents",
+      "score": 6.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "25bbcd4020d8c0d6b4cc45bfe4d46ff571903a4b756801035d94f4f29659df78",
+      "chars": 6517
+    },
+    {
+      "skill": "api-backend-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "d9b85aed2e04d885352c264ec7d6f92cde9638ab72550f7c0dae5395a286d705",
+      "chars": 6027
+    },
+    {
+      "skill": "blender-engineering",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "0aafa90a1c96052c536e4baf39be56e5cd0b0e599247d9e0ab9f9b19d48817c4",
+      "chars": 5961
+    },
+    {
+      "skill": "brand-fidelity-strategy",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "700d40858f8213ec3ef10d755fa55d8b9f762207a80c78cfed1d72d36f0f2c81",
+      "chars": 10442
+    },
+    {
+      "skill": "computer-use",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "3434fb1972249fb315e5d14ead1790bdb7627f5ff6f1670c63f8fa776d5730db",
+      "chars": 6096
+    },
+    {
+      "skill": "computer-vision",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "cfa66e2f11f55485c9dae0744847e14ffeeabdabf0ecbb3b86999b4d4c25e3c9",
+      "chars": 6061
+    },
+    {
+      "skill": "cybersecurity",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "4d8ef295f1b84cb6d209dbfb34ddfaf9aa45e817fd4d4ea0f2c102a76670250e",
+      "chars": 6071
+    },
+    {
+      "skill": "design-open-source-and-research-discovery",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "11f6f0916241e336717d6c181b0250929c176a9b71ae1924f584bfc1548d2f26",
+      "chars": 5634
+    },
+    {
+      "skill": "devops-sre",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "0aa26d53de143f6db335c5e56cb6e74a7815f56ffc3911ce78473d2fabe0ddaf",
+      "chars": 5983
+    },
+    {
+      "skill": "docker-kubernetes",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "a63f0feac72ecd835242299f0d27bee2ef276e18d87334375cbdaa8c4a8c647d",
+      "chars": 6048
+    },
+    {
+      "skill": "event-driven-agent-architecture",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "12a1c6b2cc6b4df435968732f33889b3fcd5df0e0807a4a2aef2923f0fe61c93",
+      "chars": 10375
+    },
+    {
+      "skill": "exchange-market-connectors",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "04a9ec8a1da3aec6ce4eef6d1e6079e03f75bc725dccae2a78a7be7cd56f6ffe",
+      "chars": 6965
+    },
+    {
+      "skill": "execution-controller-and-tool-governance",
+      "score": 7.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "b0fdb765489a9782f2df7903c348e222b050f3f3228ae175bf90544882489f8a",
+      "chars": 4610
+    },
+    {
+      "skill": "financial-risk",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "97a21b05276d14dd170764835a4b215f5bebdf0c0dd0582ee06400a6d52527b8",
+      "chars": 6087
+    },
+    {
+      "skill": "git-github-engineering",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "35227aad61d923b9aceb29aa3a46d09251ed8f6df9f8e622f85230496e25c3c5",
+      "chars": 5932
+    },
+    {
+      "skill": "integrated-agentic-systems-architect",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "84694c54d241795f8bfed9f368d1a1f83836e69bfc865b37ef0cbd626a5aee8d",
+      "chars": 10064
+    },
+    {
+      "skill": "integrated-ai-development-architect",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "7aae34286e9575661f21576728128c8f2a12ad1fc7554bdfa4713db82003194b",
+      "chars": 7096
+    },
+    {
+      "skill": "linux-windows-automation",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "80c5f14db26d2d7eeb8dda2519816d49a259303f4f9f91b737b204d189c38d7b",
+      "chars": 5997
+    },
+    {
+      "skill": "llm-model-engineering-and-serving",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "c1941816d3d1967b533d80b4dfa7ddc7a10a7d8ca06ecbbbd1aa8a20d6d1977f",
+      "chars": 7213
+    },
+    {
+      "skill": "market-visual-research-and-ai-trading",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "81cf68c22da7396b3df2d15edd0af03e5a8ac52e7c324becedcf96ee3e3ace16",
+      "chars": 8016
+    },
+    {
+      "skill": "mathematical-statistical-reasoning",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "d472ea25809b50b26a54b0b1569b51bf6a649ed9e39f29fcf7560bd71b37c0d4",
+      "chars": 6095
+    },
+    {
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
+      "score": 6.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "12ce8ebcb8a745b1fed8405f3acf421dbd891ce42ac825f7990b06b25f39bc29",
+      "chars": 6458
+    },
+    {
+      "skill": "music-rights-metadata-governance",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "700296b4750a0350577cb82e9474d973705eca4bbd0d006836d09b63ed4dc849",
+      "chars": 10303
+    },
+    {
+      "skill": "omniroute-gateway-and-adaptive-routing",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "36517ef8ec1c6da00f7a8a7e25fb571a1da502f0c1414aa1586a773a2b8e3752",
+      "chars": 15896
+    },
+    {
+      "skill": "python-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "e1064c8cd865dce2acf1d668da713a78e1fc2b2305f26c697800d4fe3f686d52",
+      "chars": 6118
+    },
+    {
+      "skill": "quant-trading-research-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "2af4c3e705d42889ee816bb623f698210e3ec1109ee3020b5a1a00746e4ed50d",
+      "chars": 8217
+    },
+    {
+      "skill": "rag-knowledge-memory-systems",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "50cbdc3a512bf589f45f80ffd31598ccc10097cd1dd44ff4e053ea1928e97b56",
+      "chars": 6402
+    },
+    {
+      "skill": "react-nextjs-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "894f5b84c55bf153160bab3cb6f83bda9deaa066a8ba42a66d147f59123ec840",
+      "chars": 6086
+    },
+    {
+      "skill": "realtime-rag-engineering",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "95a40c693a6d47d3f5b4c50258034394c40956374572226fe1b22de2bb6b7ee0",
+      "chars": 10507
+    },
+    {
+      "skill": "research-evidence-and-provenance",
+      "score": 7.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "120ed006a242c1deec85e53954bbcbb0d3d2d29a080c5b7f1186b50637e56fdc",
+      "chars": 4477
+    },
+    {
+      "skill": "skill-evaluation-and-continuous-learning",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "9438a6cee3f83ed95d33e295529df08335c59b8a3668fff4463ee63d391362db",
+      "chars": 4640
+    },
+    {
+      "skill": "skill-router-and-composer",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "fc33e1350facc852100691449596d2ce949f94df728230aa61eb13747084f3da",
+      "chars": 4702
+    },
+    {
+      "skill": "speech-audio-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "1ddd65762c7edc47e8771d77b28e81a55752d0d9028c1fc1f71a716f86a7393c",
+      "chars": 5981
+    },
+    {
+      "skill": "sql-database-engineering",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "78703b1ede42c9490525ee27223822d8dcc6f345fa3d88b885451c8f9d9aecda",
+      "chars": 6009
+    },
+    {
+      "skill": "testing-qa",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "67a22c62dda2667a89ed712120c8df1ea4b7559ce39531255a5875f559dee348",
+      "chars": 5993
+    },
+    {
+      "skill": "typescript-javascript-engineering",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "17ff70d2616b1ca4e1dcd97551dfe8da65efac87418ca2d9ba3f0521b355b089",
+      "chars": 6042
+    },
+    {
+      "skill": "ui-ux-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "0a3485830e3f6de51094f6c116a1cc6d1a33c7c9c721d9cd835c4358b78b4229",
+      "chars": 6004
+    },
+    {
+      "skill": "unity-engineering",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "ec3c25fa385db02fedefb3506e8c7bb956670fc1099c2f40e1ddc237a0bf1a8c",
+      "chars": 6017
+    },
+    {
+      "skill": "venu-universal-engineering-orchestrator",
+      "score": 7.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "22937e05b153672b4505a386b69224b4afb3093c06e468c43bef412b79040f45",
+      "chars": 4634
+    },
+    {
+      "skill": "vfx-motion-graphics",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "ea8f7de3d93738a4f4107b0b6a878faeb89c0f36d666f5cdd5664ac26fe7c9b6",
+      "chars": 6055
+    },
+    {
+      "skill": "web-intelligence-and-browser-agents",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "84df8fc9726ba9a6fafe74664b9324956d3a69815f04f6d40fb18992b50accb1",
+      "chars": 6034
+    },
+    {
+      "skill": "web-rag-ocr-document-intelligence",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "403bc208757b6366e1ea929cea0117304461242a0732e632cf80d9b7850bc007",
+      "chars": 5873
+    },
+    {
+      "skill": "webar-8thwall-zappar",
+      "score": 10.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "57764e0666d46f0d3ce65e059d4de3eeab070d525f9c264e7435dfee7367014e",
+      "chars": 6197
+    }
+  ],
+  "avg": 8.66,
+  "min": 6.0,
+  "max": 10.0,
+  "failures": [
+    {
+      "skill": "agent-evaluation-security-governance",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "8e0759163d8f5705258b1b563acbab321540518bb6eb128a76bd7dc94704ebee",
+      "chars": 5794
+    },
+    {
+      "skill": "agent-orchestration-workflows",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "e550f27d14de5aa78f7c49b13454e755cf23e947a6bdd3548c9d3afe2584b1b9",
+      "chars": 6388
+    },
+    {
+      "skill": "agentic-memory-architecture",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "ca0fbc5055cd7e6efb6f85b494c1b990b6146cb685bb6fa6b2f82fbfb2e94116",
+      "chars": 10824
+    },
+    {
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "ed0aa5b2498cd9263d4d7f20865106244e8d0d1708d69301a0d1d138c1811ebf",
+      "chars": 5959
+    },
+    {
+      "skill": "ai-trading-research-agents",
+      "score": 6.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "25bbcd4020d8c0d6b4cc45bfe4d46ff571903a4b756801035d94f4f29659df78",
+      "chars": 6517
+    },
+    {
+      "skill": "api-backend-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "d9b85aed2e04d885352c264ec7d6f92cde9638ab72550f7c0dae5395a286d705",
+      "chars": 6027
+    },
+    {
+      "skill": "brand-fidelity-strategy",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "700d40858f8213ec3ef10d755fa55d8b9f762207a80c78cfed1d72d36f0f2c81",
+      "chars": 10442
+    },
+    {
+      "skill": "computer-use",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "3434fb1972249fb315e5d14ead1790bdb7627f5ff6f1670c63f8fa776d5730db",
+      "chars": 6096
+    },
+    {
+      "skill": "computer-vision",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "cfa66e2f11f55485c9dae0744847e14ffeeabdabf0ecbb3b86999b4d4c25e3c9",
+      "chars": 6061
+    },
+    {
+      "skill": "cybersecurity",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "4d8ef295f1b84cb6d209dbfb34ddfaf9aa45e817fd4d4ea0f2c102a76670250e",
+      "chars": 6071
+    },
+    {
+      "skill": "design-open-source-and-research-discovery",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "11f6f0916241e336717d6c181b0250929c176a9b71ae1924f584bfc1548d2f26",
+      "chars": 5634
+    },
+    {
+      "skill": "event-driven-agent-architecture",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "12a1c6b2cc6b4df435968732f33889b3fcd5df0e0807a4a2aef2923f0fe61c93",
+      "chars": 10375
+    },
+    {
+      "skill": "exchange-market-connectors",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "04a9ec8a1da3aec6ce4eef6d1e6079e03f75bc725dccae2a78a7be7cd56f6ffe",
+      "chars": 6965
+    },
+    {
+      "skill": "execution-controller-and-tool-governance",
+      "score": 7.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "b0fdb765489a9782f2df7903c348e222b050f3f3228ae175bf90544882489f8a",
+      "chars": 4610
+    },
+    {
+      "skill": "integrated-agentic-systems-architect",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "84694c54d241795f8bfed9f368d1a1f83836e69bfc865b37ef0cbd626a5aee8d",
+      "chars": 10064
+    },
+    {
+      "skill": "integrated-ai-development-architect",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "7aae34286e9575661f21576728128c8f2a12ad1fc7554bdfa4713db82003194b",
+      "chars": 7096
+    },
+    {
+      "skill": "llm-model-engineering-and-serving",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "c1941816d3d1967b533d80b4dfa7ddc7a10a7d8ca06ecbbbd1aa8a20d6d1977f",
+      "chars": 7213
+    },
+    {
+      "skill": "market-visual-research-and-ai-trading",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "81cf68c22da7396b3df2d15edd0af03e5a8ac52e7c324becedcf96ee3e3ace16",
+      "chars": 8016
+    },
+    {
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
+      "score": 6.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "12ce8ebcb8a745b1fed8405f3acf421dbd891ce42ac825f7990b06b25f39bc29",
+      "chars": 6458
+    },
+    {
+      "skill": "music-rights-metadata-governance",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "700296b4750a0350577cb82e9474d973705eca4bbd0d006836d09b63ed4dc849",
+      "chars": 10303
+    },
+    {
+      "skill": "omniroute-gateway-and-adaptive-routing",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "36517ef8ec1c6da00f7a8a7e25fb571a1da502f0c1414aa1586a773a2b8e3752",
+      "chars": 15896
+    },
+    {
+      "skill": "python-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "e1064c8cd865dce2acf1d668da713a78e1fc2b2305f26c697800d4fe3f686d52",
+      "chars": 6118
+    },
+    {
+      "skill": "quant-trading-research-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "2af4c3e705d42889ee816bb623f698210e3ec1109ee3020b5a1a00746e4ed50d",
+      "chars": 8217
+    },
+    {
+      "skill": "rag-knowledge-memory-systems",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "50cbdc3a512bf589f45f80ffd31598ccc10097cd1dd44ff4e053ea1928e97b56",
+      "chars": 6402
+    },
+    {
+      "skill": "react-nextjs-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "894f5b84c55bf153160bab3cb6f83bda9deaa066a8ba42a66d147f59123ec840",
+      "chars": 6086
+    },
+    {
+      "skill": "realtime-rag-engineering",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "95a40c693a6d47d3f5b4c50258034394c40956374572226fe1b22de2bb6b7ee0",
+      "chars": 10507
+    },
+    {
+      "skill": "research-evidence-and-provenance",
+      "score": 7.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "120ed006a242c1deec85e53954bbcbb0d3d2d29a080c5b7f1186b50637e56fdc",
+      "chars": 4477
+    },
+    {
+      "skill": "skill-evaluation-and-continuous-learning",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "9438a6cee3f83ed95d33e295529df08335c59b8a3668fff4463ee63d391362db",
+      "chars": 4640
+    },
+    {
+      "skill": "skill-router-and-composer",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "fc33e1350facc852100691449596d2ce949f94df728230aa61eb13747084f3da",
+      "chars": 4702
+    },
+    {
+      "skill": "speech-audio-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "1ddd65762c7edc47e8771d77b28e81a55752d0d9028c1fc1f71a716f86a7393c",
+      "chars": 5981
+    },
+    {
+      "skill": "ui-ux-engineering",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "0a3485830e3f6de51094f6c116a1cc6d1a33c7c9c721d9cd835c4358b78b4229",
+      "chars": 6004
+    },
+    {
+      "skill": "venu-universal-engineering-orchestrator",
+      "score": 7.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": false,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "22937e05b153672b4505a386b69224b4afb3093c06e468c43bef412b79040f45",
+      "chars": 4634
+    },
+    {
+      "skill": "web-intelligence-and-browser-agents",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "84df8fc9726ba9a6fafe74664b9324956d3a69815f04f6d40fb18992b50accb1",
+      "chars": 6034
+    },
+    {
+      "skill": "web-rag-ocr-document-intelligence",
+      "score": 8.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": false,
+        "source_urls": true,
+        "quality_contract": false,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": true
+      },
+      "sha256": "403bc208757b6366e1ea929cea0117304461242a0732e632cf80d9b7850bc007",
+      "chars": 5873
+    }
+  ]
+}

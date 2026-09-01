@@ -1,0 +1,51 @@
+# Venu Skills Registry — 2026-09-01
+
+Total Skills: 47
+
+- `agent-evaluation-security-governance`
+- `agent-orchestration-workflows`
+- `agentic-memory-architecture`
+- `ai-infrastructure-vps-docker-runtime`
+- `ai-trading-research-agents`
+- `api-backend-engineering`
+- `blender-engineering`
+- `brand-fidelity-strategy`
+- `computer-use`
+- `computer-vision`
+- `cybersecurity`
+- `design-open-source-and-research-discovery`
+- `devops-sre`
+- `docker-kubernetes`
+- `event-driven-agent-architecture`
+- `exchange-market-connectors`
+- `execution-controller-and-tool-governance`
+- `financial-risk`
+- `git-github-engineering`
+- `integrated-agentic-systems-architect`
+- `integrated-ai-development-architect`
+- `linux-windows-automation`
+- `llm-model-engineering-and-serving`
+- `market-visual-research-and-ai-trading`
+- `mathematical-statistical-reasoning`
+- `mcp-tooling-and-ai-gateway-ecosystem`
+- `music-rights-metadata-governance`
+- `omniroute-gateway-and-adaptive-routing`
+- `python-engineering`
+- `quant-trading-research-engineering`
+- `rag-knowledge-memory-systems`
+- `react-nextjs-engineering`
+- `realtime-rag-engineering`
+- `research-evidence-and-provenance`
+- `skill-evaluation-and-continuous-learning`
+- `skill-router-and-composer`
+- `speech-audio-engineering`
+- `sql-database-engineering`
+- `testing-qa`
+- `typescript-javascript-engineering`
+- `ui-ux-engineering`
+- `unity-engineering`
+- `venu-universal-engineering-orchestrator`
+- `vfx-motion-graphics`
+- `web-intelligence-and-browser-agents`
+- `web-rag-ocr-document-intelligence`
+- `webar-8thwall-zappar`
