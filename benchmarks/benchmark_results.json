@@ -3,42 +3,78 @@
   "scores": [
     {
       "skill": "agent-evaluation-security-governance",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "8e0759163d8f5705258b1b563acbab321540518bb6eb128a76bd7dc94704ebee",
-      "chars": 5794
+      "sha256": "a5f39bba52af5cd8427f37238c426280de4286605c85d3d448d6d1a93dda3c50",
+      "chars": 8934
     },
     {
       "skill": "agent-orchestration-workflows",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "e550f27d14de5aa78f7c49b13454e755cf23e947a6bdd3548c9d3afe2584b1b9",
-      "chars": 6388
+      "sha256": "619f5b56e6eecc2e28a41e7ad8b4fc565f58c67452a741314e7fd93b301cb674",
+      "chars": 9327
     },
     {
       "skill": "agentic-memory-architecture",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "86d7924edb13a7bae92662e3dc680eeba3b833ef771604898f41b7d08b8cc26b",
+      "chars": 12754
+    },
+    {
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "79598c38755ec101608b61483c87b538d8dd15e1623803390151a33b4c97cd94",
+      "chars": 8898
+    },
+    {
+      "skill": "ai-trading-research-agents",
       "score": 8.0,
       "checks": {
         "frontmatter": true,
@@ -46,50 +82,14 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
-        "size_reasonable": true,
-        "domain_anchors": true,
-        "no_placeholder": true,
-        "no_absolute_guarantee": false
-      },
-      "sha256": "ca0fbc5055cd7e6efb6f85b494c1b990b6146cb685bb6fa6b2f82fbfb2e94116",
-      "chars": 10824
-    },
-    {
-      "skill": "ai-infrastructure-vps-docker-runtime",
-      "score": 8.0,
-      "checks": {
-        "frontmatter": true,
-        "name": true,
-        "description": true,
-        "workflow_numbered": false,
-        "source_urls": true,
-        "quality_contract": false,
-        "size_reasonable": true,
-        "domain_anchors": true,
-        "no_placeholder": true,
-        "no_absolute_guarantee": true
-      },
-      "sha256": "ed0aa5b2498cd9263d4d7f20865106244e8d0d1708d69301a0d1d138c1811ebf",
-      "chars": 5959
-    },
-    {
-      "skill": "ai-trading-research-agents",
-      "score": 6.0,
-      "checks": {
-        "frontmatter": true,
-        "name": true,
-        "description": true,
-        "workflow_numbered": false,
-        "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": false,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "25bbcd4020d8c0d6b4cc45bfe4d46ff571903a4b756801035d94f4f29659df78",
-      "chars": 6517
+      "sha256": "b62c2f90d1591decbb117ab21ca37810979e8f7b48980f5fa87c54a0ad3c4af9",
+      "chars": 9456
     },
     {
       "skill": "api-backend-engineering",
@@ -106,8 +106,8 @@
         "no_placeholder": true,
         "no_absolute_guarantee": true
       },
-      "sha256": "d9b85aed2e04d885352c264ec7d6f92cde9638ab72550f7c0dae5395a286d705",
-      "chars": 6027
+      "sha256": "6cba6683baa1eed0e02874a6cf97e16b8770f4a65b2e2583acd293ae18358527",
+      "chars": 6052
     },
     {
       "skill": "blender-engineering",
@@ -129,21 +129,21 @@
     },
     {
       "skill": "brand-fidelity-strategy",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "700d40858f8213ec3ef10d755fa55d8b9f762207a80c78cfed1d72d36f0f2c81",
-      "chars": 10442
+      "sha256": "cf00cda8672d9046b3c11a9ded1941a95f260f3f82c1f591e4bea85d57e8a8fd",
+      "chars": 12372
     },
     {
       "skill": "computer-use",
@@ -201,21 +201,21 @@
     },
     {
       "skill": "design-open-source-and-research-discovery",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "11f6f0916241e336717d6c181b0250929c176a9b71ae1924f584bfc1548d2f26",
-      "chars": 5634
+      "sha256": "21e4c46a8399ac86c6c39c1ea7174dd331bb0945bcd864d12a3b68df168c386d",
+      "chars": 8573
     },
     {
       "skill": "devops-sre",
@@ -255,57 +255,57 @@
     },
     {
       "skill": "event-driven-agent-architecture",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "12a1c6b2cc6b4df435968732f33889b3fcd5df0e0807a4a2aef2923f0fe61c93",
-      "chars": 10375
+      "sha256": "182963344f6b0fad974b43e8ba1a8bd1ff805736cc2a4ec07c6cf3547dde4a58",
+      "chars": 12305
     },
     {
       "skill": "exchange-market-connectors",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "04a9ec8a1da3aec6ce4eef6d1e6079e03f75bc725dccae2a78a7be7cd56f6ffe",
-      "chars": 6965
+      "sha256": "4f141eef5b90aa79d7afe80f148ff12baec7f1a9aed094055303b786ce468513",
+      "chars": 8895
     },
     {
       "skill": "execution-controller-and-tool-governance",
-      "score": 7.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
-        "domain_anchors": false,
+        "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "b0fdb765489a9782f2df7903c348e222b050f3f3228ae175bf90544882489f8a",
-      "chars": 4610
+      "sha256": "9df3d7e237275821d8db3dd18bd5af158dcbdca9318e6ec46853986bebad9094",
+      "chars": 7902
     },
     {
       "skill": "financial-risk",
@@ -345,21 +345,21 @@
     },
     {
       "skill": "integrated-agentic-systems-architect",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "84694c54d241795f8bfed9f368d1a1f83836e69bfc865b37ef0cbd626a5aee8d",
-      "chars": 10064
+      "sha256": "4daae98463b81d16d55ae7904db87c36de727bd22339c1baf98bdfa1f641bca9",
+      "chars": 11994
     },
     {
       "skill": "integrated-ai-development-architect",
@@ -370,14 +370,14 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "7aae34286e9575661f21576728128c8f2a12ad1fc7554bdfa4713db82003194b",
-      "chars": 7096
+      "sha256": "4253d198b6985dd884807a0e564482469db0b939663e0e491e4c07ba1e093223",
+      "chars": 9026
     },
     {
       "skill": "linux-windows-automation",
@@ -399,39 +399,39 @@
     },
     {
       "skill": "llm-model-engineering-and-serving",
-      "score": 8.0,
-      "checks": {
-        "frontmatter": true,
-        "name": true,
-        "description": true,
-        "workflow_numbered": false,
-        "source_urls": true,
-        "quality_contract": false,
-        "size_reasonable": true,
-        "domain_anchors": true,
-        "no_placeholder": true,
-        "no_absolute_guarantee": true
-      },
-      "sha256": "c1941816d3d1967b533d80b4dfa7ddc7a10a7d8ca06ecbbbd1aa8a20d6d1977f",
-      "chars": 7213
-    },
-    {
-      "skill": "market-visual-research-and-ai-trading",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "81cf68c22da7396b3df2d15edd0af03e5a8ac52e7c324becedcf96ee3e3ace16",
-      "chars": 8016
+      "sha256": "85c08862761712d1298895ba17d2ec3a6d8a77779cdae720a3fd92cdd00448f0",
+      "chars": 10345
+    },
+    {
+      "skill": "market-visual-research-and-ai-trading",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "2580f842f13f409a14bd36e2d9f7e2e56c643aa493c4002f6d46ec90e978efae",
+      "chars": 10356
     },
     {
       "skill": "mathematical-statistical-reasoning",
@@ -453,21 +453,21 @@
     },
     {
       "skill": "mcp-tooling-and-ai-gateway-ecosystem",
-      "score": 6.0,
+      "score": 8.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": false,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "12ce8ebcb8a745b1fed8405f3acf421dbd891ce42ac825f7990b06b25f39bc29",
-      "chars": 6458
+      "sha256": "0e8c7c3ff5be39d4b74e28b132b49f6870cac2fc72d4f89fb0ebcbde173ff767",
+      "chars": 9560
     },
     {
       "skill": "music-rights-metadata-governance",
@@ -478,14 +478,14 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "700296b4750a0350577cb82e9474d973705eca4bbd0d006836d09b63ed4dc849",
-      "chars": 10303
+      "sha256": "e5b741d5effd12ece713e3b947447f8d9c966d65425fed21373ba9b629b3abf7",
+      "chars": 12233
     },
     {
       "skill": "omniroute-gateway-and-adaptive-routing",
@@ -496,14 +496,14 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "36517ef8ec1c6da00f7a8a7e25fb571a1da502f0c1414aa1586a773a2b8e3752",
-      "chars": 15896
+      "sha256": "647958edff7af2cd11500948f9a0b70df4b9a334ff32295970e5c3afcf786cb0",
+      "chars": 17826
     },
     {
       "skill": "python-engineering",
@@ -532,32 +532,32 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "2af4c3e705d42889ee816bb623f698210e3ec1109ee3020b5a1a00746e4ed50d",
-      "chars": 8217
+      "sha256": "4fd9bfcd910a15f0525deab157defc5d0410d6a75ec39793517fb81aa6e5b386",
+      "chars": 10147
     },
     {
       "skill": "rag-knowledge-memory-systems",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "50cbdc3a512bf589f45f80ffd31598ccc10097cd1dd44ff4e053ea1928e97b56",
-      "chars": 6402
+      "sha256": "aaa53632385d792780095852ea915fe5922ab72121e97a422232eeb05a784968",
+      "chars": 9548
     },
     {
       "skill": "react-nextjs-engineering",
@@ -579,75 +579,75 @@
     },
     {
       "skill": "realtime-rag-engineering",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "95a40c693a6d47d3f5b4c50258034394c40956374572226fe1b22de2bb6b7ee0",
-      "chars": 10507
+      "sha256": "d33c1c5d268eab06bf638c29f470301b789ef66ec7f0b5ad57ca74be00e78cce",
+      "chars": 12437
     },
     {
       "skill": "research-evidence-and-provenance",
-      "score": 7.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
-        "domain_anchors": false,
+        "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "120ed006a242c1deec85e53954bbcbb0d3d2d29a080c5b7f1186b50637e56fdc",
-      "chars": 4477
+      "sha256": "a4d88482307939ee85ddbdcf30eadfa63f27a273707e1d885443f66e51e42424",
+      "chars": 7734
     },
     {
       "skill": "skill-evaluation-and-continuous-learning",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "9438a6cee3f83ed95d33e295529df08335c59b8a3668fff4463ee63d391362db",
-      "chars": 4640
+      "sha256": "f8a997b43d3704116e1a98a5b7ef8f5baa690291cbefabeb1384dc2b3b5685ca",
+      "chars": 7934
     },
     {
       "skill": "skill-router-and-composer",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "fc33e1350facc852100691449596d2ce949f94df728230aa61eb13747084f3da",
-      "chars": 4702
+      "sha256": "65a235fbd4c6407d69bea6cd8522c90077628cb69aa5d900c350282a7b64e879",
+      "chars": 8007
     },
     {
       "skill": "speech-audio-engineering",
@@ -759,21 +759,21 @@
     },
     {
       "skill": "venu-universal-engineering-orchestrator",
-      "score": 7.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
-        "domain_anchors": false,
+        "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "22937e05b153672b4505a386b69224b4afb3093c06e468c43bef412b79040f45",
-      "chars": 4634
+      "sha256": "4f984c0c40db5640a4836eb3bd022edb2c6bde3ac92b6b4c93127df6e1526ab0",
+      "chars": 7911
     },
     {
       "skill": "vfx-motion-graphics",
@@ -795,39 +795,39 @@
     },
     {
       "skill": "web-intelligence-and-browser-agents",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "84df8fc9726ba9a6fafe74664b9324956d3a69815f04f6d40fb18992b50accb1",
-      "chars": 6034
+      "sha256": "6c29f5ba0e701385dcda6b2d32cd2a3caa9c5bd32ec1e9c464543fd6521d1fc4",
+      "chars": 9180
     },
     {
       "skill": "web-rag-ocr-document-intelligence",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "403bc208757b6366e1ea929cea0117304461242a0732e632cf80d9b7850bc007",
-      "chars": 5873
+      "sha256": "c4c4b8ccad4a7b990cacf192c11b6abdf5af420f253025a1ab823f4b2ce1f9b2",
+      "chars": 8981
     },
     {
       "skill": "webar-8thwall-zappar",
@@ -848,48 +848,84 @@
       "chars": 6197
     }
   ],
-  "avg": 8.66,
-  "min": 6.0,
+  "avg": 9.23,
+  "min": 8.0,
   "max": 10.0,
   "failures": [
     {
       "skill": "agent-evaluation-security-governance",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "8e0759163d8f5705258b1b563acbab321540518bb6eb128a76bd7dc94704ebee",
-      "chars": 5794
+      "sha256": "a5f39bba52af5cd8427f37238c426280de4286605c85d3d448d6d1a93dda3c50",
+      "chars": 8934
     },
     {
       "skill": "agent-orchestration-workflows",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "e550f27d14de5aa78f7c49b13454e755cf23e947a6bdd3548c9d3afe2584b1b9",
-      "chars": 6388
+      "sha256": "619f5b56e6eecc2e28a41e7ad8b4fc565f58c67452a741314e7fd93b301cb674",
+      "chars": 9327
     },
     {
       "skill": "agentic-memory-architecture",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "86d7924edb13a7bae92662e3dc680eeba3b833ef771604898f41b7d08b8cc26b",
+      "chars": 12754
+    },
+    {
+      "skill": "ai-infrastructure-vps-docker-runtime",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "79598c38755ec101608b61483c87b538d8dd15e1623803390151a33b4c97cd94",
+      "chars": 8898
+    },
+    {
+      "skill": "ai-trading-research-agents",
       "score": 8.0,
       "checks": {
         "frontmatter": true,
@@ -897,50 +933,14 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
-        "size_reasonable": true,
-        "domain_anchors": true,
-        "no_placeholder": true,
-        "no_absolute_guarantee": false
-      },
-      "sha256": "ca0fbc5055cd7e6efb6f85b494c1b990b6146cb685bb6fa6b2f82fbfb2e94116",
-      "chars": 10824
-    },
-    {
-      "skill": "ai-infrastructure-vps-docker-runtime",
-      "score": 8.0,
-      "checks": {
-        "frontmatter": true,
-        "name": true,
-        "description": true,
-        "workflow_numbered": false,
-        "source_urls": true,
-        "quality_contract": false,
-        "size_reasonable": true,
-        "domain_anchors": true,
-        "no_placeholder": true,
-        "no_absolute_guarantee": true
-      },
-      "sha256": "ed0aa5b2498cd9263d4d7f20865106244e8d0d1708d69301a0d1d138c1811ebf",
-      "chars": 5959
-    },
-    {
-      "skill": "ai-trading-research-agents",
-      "score": 6.0,
-      "checks": {
-        "frontmatter": true,
-        "name": true,
-        "description": true,
-        "workflow_numbered": false,
-        "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": false,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "25bbcd4020d8c0d6b4cc45bfe4d46ff571903a4b756801035d94f4f29659df78",
-      "chars": 6517
+      "sha256": "b62c2f90d1591decbb117ab21ca37810979e8f7b48980f5fa87c54a0ad3c4af9",
+      "chars": 9456
     },
     {
       "skill": "api-backend-engineering",
@@ -957,26 +957,26 @@
         "no_placeholder": true,
         "no_absolute_guarantee": true
       },
-      "sha256": "d9b85aed2e04d885352c264ec7d6f92cde9638ab72550f7c0dae5395a286d705",
-      "chars": 6027
+      "sha256": "6cba6683baa1eed0e02874a6cf97e16b8770f4a65b2e2583acd293ae18358527",
+      "chars": 6052
     },
     {
       "skill": "brand-fidelity-strategy",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "700d40858f8213ec3ef10d755fa55d8b9f762207a80c78cfed1d72d36f0f2c81",
-      "chars": 10442
+      "sha256": "cf00cda8672d9046b3c11a9ded1941a95f260f3f82c1f591e4bea85d57e8a8fd",
+      "chars": 12372
     },
     {
       "skill": "computer-use",
@@ -1034,93 +1034,93 @@
     },
     {
       "skill": "design-open-source-and-research-discovery",
-      "score": 8.0,
-      "checks": {
-        "frontmatter": true,
-        "name": true,
-        "description": true,
-        "workflow_numbered": false,
-        "source_urls": true,
-        "quality_contract": false,
-        "size_reasonable": true,
-        "domain_anchors": true,
-        "no_placeholder": true,
-        "no_absolute_guarantee": true
-      },
-      "sha256": "11f6f0916241e336717d6c181b0250929c176a9b71ae1924f584bfc1548d2f26",
-      "chars": 5634
-    },
-    {
-      "skill": "event-driven-agent-architecture",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "12a1c6b2cc6b4df435968732f33889b3fcd5df0e0807a4a2aef2923f0fe61c93",
-      "chars": 10375
+      "sha256": "21e4c46a8399ac86c6c39c1ea7174dd331bb0945bcd864d12a3b68df168c386d",
+      "chars": 8573
+    },
+    {
+      "skill": "event-driven-agent-architecture",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "182963344f6b0fad974b43e8ba1a8bd1ff805736cc2a4ec07c6cf3547dde4a58",
+      "chars": 12305
     },
     {
       "skill": "exchange-market-connectors",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "04a9ec8a1da3aec6ce4eef6d1e6079e03f75bc725dccae2a78a7be7cd56f6ffe",
-      "chars": 6965
+      "sha256": "4f141eef5b90aa79d7afe80f148ff12baec7f1a9aed094055303b786ce468513",
+      "chars": 8895
     },
     {
       "skill": "execution-controller-and-tool-governance",
-      "score": 7.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
-        "size_reasonable": true,
-        "domain_anchors": false,
-        "no_placeholder": true,
-        "no_absolute_guarantee": true
-      },
-      "sha256": "b0fdb765489a9782f2df7903c348e222b050f3f3228ae175bf90544882489f8a",
-      "chars": 4610
-    },
-    {
-      "skill": "integrated-agentic-systems-architect",
-      "score": 8.0,
-      "checks": {
-        "frontmatter": true,
-        "name": true,
-        "description": true,
-        "workflow_numbered": false,
-        "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "84694c54d241795f8bfed9f368d1a1f83836e69bfc865b37ef0cbd626a5aee8d",
-      "chars": 10064
+      "sha256": "9df3d7e237275821d8db3dd18bd5af158dcbdca9318e6ec46853986bebad9094",
+      "chars": 7902
+    },
+    {
+      "skill": "integrated-agentic-systems-architect",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "4daae98463b81d16d55ae7904db87c36de727bd22339c1baf98bdfa1f641bca9",
+      "chars": 11994
     },
     {
       "skill": "integrated-ai-development-architect",
@@ -1131,35 +1131,53 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "7aae34286e9575661f21576728128c8f2a12ad1fc7554bdfa4713db82003194b",
-      "chars": 7096
+      "sha256": "4253d198b6985dd884807a0e564482469db0b939663e0e491e4c07ba1e093223",
+      "chars": 9026
     },
     {
       "skill": "llm-model-engineering-and-serving",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "c1941816d3d1967b533d80b4dfa7ddc7a10a7d8ca06ecbbbd1aa8a20d6d1977f",
-      "chars": 7213
+      "sha256": "85c08862761712d1298895ba17d2ec3a6d8a77779cdae720a3fd92cdd00448f0",
+      "chars": 10345
     },
     {
       "skill": "market-visual-research-and-ai-trading",
+      "score": 9.0,
+      "checks": {
+        "frontmatter": true,
+        "name": true,
+        "description": true,
+        "workflow_numbered": true,
+        "source_urls": true,
+        "quality_contract": true,
+        "size_reasonable": true,
+        "domain_anchors": true,
+        "no_placeholder": true,
+        "no_absolute_guarantee": false
+      },
+      "sha256": "2580f842f13f409a14bd36e2d9f7e2e56c643aa493c4002f6d46ec90e978efae",
+      "chars": 10356
+    },
+    {
+      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
       "score": 8.0,
       "checks": {
         "frontmatter": true,
@@ -1167,32 +1185,14 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
-        "size_reasonable": true,
-        "domain_anchors": true,
-        "no_placeholder": true,
-        "no_absolute_guarantee": false
-      },
-      "sha256": "81cf68c22da7396b3df2d15edd0af03e5a8ac52e7c324becedcf96ee3e3ace16",
-      "chars": 8016
-    },
-    {
-      "skill": "mcp-tooling-and-ai-gateway-ecosystem",
-      "score": 6.0,
-      "checks": {
-        "frontmatter": true,
-        "name": true,
-        "description": true,
-        "workflow_numbered": false,
-        "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": false,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "12ce8ebcb8a745b1fed8405f3acf421dbd891ce42ac825f7990b06b25f39bc29",
-      "chars": 6458
+      "sha256": "0e8c7c3ff5be39d4b74e28b132b49f6870cac2fc72d4f89fb0ebcbde173ff767",
+      "chars": 9560
     },
     {
       "skill": "music-rights-metadata-governance",
@@ -1203,14 +1203,14 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "700296b4750a0350577cb82e9474d973705eca4bbd0d006836d09b63ed4dc849",
-      "chars": 10303
+      "sha256": "e5b741d5effd12ece713e3b947447f8d9c966d65425fed21373ba9b629b3abf7",
+      "chars": 12233
     },
     {
       "skill": "omniroute-gateway-and-adaptive-routing",
@@ -1221,14 +1221,14 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "36517ef8ec1c6da00f7a8a7e25fb571a1da502f0c1414aa1586a773a2b8e3752",
-      "chars": 15896
+      "sha256": "647958edff7af2cd11500948f9a0b70df4b9a334ff32295970e5c3afcf786cb0",
+      "chars": 17826
     },
     {
       "skill": "python-engineering",
@@ -1257,32 +1257,32 @@
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "2af4c3e705d42889ee816bb623f698210e3ec1109ee3020b5a1a00746e4ed50d",
-      "chars": 8217
+      "sha256": "4fd9bfcd910a15f0525deab157defc5d0410d6a75ec39793517fb81aa6e5b386",
+      "chars": 10147
     },
     {
       "skill": "rag-knowledge-memory-systems",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "50cbdc3a512bf589f45f80ffd31598ccc10097cd1dd44ff4e053ea1928e97b56",
-      "chars": 6402
+      "sha256": "aaa53632385d792780095852ea915fe5922ab72121e97a422232eeb05a784968",
+      "chars": 9548
     },
     {
       "skill": "react-nextjs-engineering",
@@ -1304,75 +1304,75 @@
     },
     {
       "skill": "realtime-rag-engineering",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
         "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
         "no_absolute_guarantee": false
       },
-      "sha256": "95a40c693a6d47d3f5b4c50258034394c40956374572226fe1b22de2bb6b7ee0",
-      "chars": 10507
+      "sha256": "d33c1c5d268eab06bf638c29f470301b789ef66ec7f0b5ad57ca74be00e78cce",
+      "chars": 12437
     },
     {
       "skill": "research-evidence-and-provenance",
-      "score": 7.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
-        "domain_anchors": false,
+        "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "120ed006a242c1deec85e53954bbcbb0d3d2d29a080c5b7f1186b50637e56fdc",
-      "chars": 4477
+      "sha256": "a4d88482307939ee85ddbdcf30eadfa63f27a273707e1d885443f66e51e42424",
+      "chars": 7734
     },
     {
       "skill": "skill-evaluation-and-continuous-learning",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "9438a6cee3f83ed95d33e295529df08335c59b8a3668fff4463ee63d391362db",
-      "chars": 4640
+      "sha256": "f8a997b43d3704116e1a98a5b7ef8f5baa690291cbefabeb1384dc2b3b5685ca",
+      "chars": 7934
     },
     {
       "skill": "skill-router-and-composer",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "fc33e1350facc852100691449596d2ce949f94df728230aa61eb13747084f3da",
-      "chars": 4702
+      "sha256": "65a235fbd4c6407d69bea6cd8522c90077628cb69aa5d900c350282a7b64e879",
+      "chars": 8007
     },
     {
       "skill": "speech-audio-engineering",
@@ -1412,57 +1412,57 @@
     },
     {
       "skill": "venu-universal-engineering-orchestrator",
-      "score": 7.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
-        "domain_anchors": false,
+        "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "22937e05b153672b4505a386b69224b4afb3093c06e468c43bef412b79040f45",
-      "chars": 4634
+      "sha256": "4f984c0c40db5640a4836eb3bd022edb2c6bde3ac92b6b4c93127df6e1526ab0",
+      "chars": 7911
     },
     {
       "skill": "web-intelligence-and-browser-agents",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "84df8fc9726ba9a6fafe74664b9324956d3a69815f04f6d40fb18992b50accb1",
-      "chars": 6034
+      "sha256": "6c29f5ba0e701385dcda6b2d32cd2a3caa9c5bd32ec1e9c464543fd6521d1fc4",
+      "chars": 9180
     },
     {
       "skill": "web-rag-ocr-document-intelligence",
-      "score": 8.0,
+      "score": 9.0,
       "checks": {
         "frontmatter": true,
         "name": true,
         "description": true,
-        "workflow_numbered": false,
+        "workflow_numbered": true,
         "source_urls": true,
-        "quality_contract": false,
+        "quality_contract": true,
         "size_reasonable": true,
         "domain_anchors": true,
         "no_placeholder": true,
-        "no_absolute_guarantee": true
+        "no_absolute_guarantee": false
       },
-      "sha256": "403bc208757b6366e1ea929cea0117304461242a0732e632cf80d9b7850bc007",
-      "chars": 5873
+      "sha256": "c4c4b8ccad4a7b990cacf192c11b6abdf5af420f253025a1ab823f4b2ce1f9b2",
+      "chars": 8981
     }
   ]
 }

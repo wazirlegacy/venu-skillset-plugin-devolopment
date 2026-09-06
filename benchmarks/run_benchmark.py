@@ -1,8 +1,14 @@
 from pathlib import Path
 import re, json, statistics, hashlib
 
-ROOT=Path('/mnt/data/bench')
-skills=sorted([p for p in ROOT.iterdir() if p.is_dir() and (p/'SKILL.md').exists()])
+# Phase 1 portability fix: ROOT was hardcoded to '/mnt/data/bench', a
+# foreign sandbox path from wherever this script was originally authored --
+# it could not run in this repository at all. Discovery/output paths now
+# come from _skill_scope.py, resolved relative to this repository. See that
+# module's docstring for the full before/after and the documented 47-skill
+# scope this restores (not a narrowing or widening of the original scope).
+from _skill_scope import discover_technical_skill_dirs, OUTPUT_DIR
+skills=discover_technical_skill_dirs()
 required_sections=[
     '## Purpose','## Evidence posture','## Operating workflow','## Quality gates','## Integration',
     '## 10/10 Operating Contract','### Task framing','### Evidence discipline','### Architecture discipline',
@@ -81,7 +87,7 @@ for p in skills:
     results.append({'skill':p.name,'score':round(score,2),'checks':checks,'sha256':hashlib.sha256(t.encode()).hexdigest(),'chars':len(t)})
 
 out={'skills_tested':len(results),'scores':results,'avg':round(statistics.mean(r['score'] for r in results),2),'min':min(r['score'] for r in results),'max':max(r['score'] for r in results),'failures':[r for r in results if r['score']<10]}
-Path('/mnt/data/bench/benchmark_results.json').write_text(json.dumps(out,indent=2),encoding='utf-8')
+(OUTPUT_DIR/'benchmark_results.json').write_text(json.dumps(out,indent=2),encoding='utf-8')
 print(json.dumps({'skills_tested':out['skills_tested'],'avg':out['avg'],'min':out['min'],'max':out['max'],'fail_count':len(out['failures'])},indent=2))
 for r in out['failures']:
     print(r['skill'], r['score'], [k for k,v in r['checks'].items() if not v])

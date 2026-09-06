@@ -1,9 +1,17 @@
 #!/usr/bin/env python3
-"""Strict repository-level regression benchmark for Venu Skills."""
+"""Strict repository-level regression benchmark for Venu Skills.
+
+Phase 1 portability fix: scope/path resolution now lives in
+_skill_scope.py. Previously ROOT=Path(__file__).resolve().parent pointed at
+the benchmarks/ folder itself, which contains no SKILL.md files, so this
+script silently scanned zero Skills and "passed" trivially. See
+_skill_scope.py's docstring for the full before/after and for why the scope
+is exactly the 47 technical/AI Skills, not all 58 packages in the repo.
+"""
 from pathlib import Path
 import re, sys
-ROOT=Path(__file__).resolve().parent
-skills=sorted([p for p in ROOT.iterdir() if p.is_dir() and (p/"SKILL.md").exists()])
+from _skill_scope import discover_technical_skill_dirs
+skills=discover_technical_skill_dirs()
 required=[
  r'^## Purpose\s*$',r'^## Evidence posture\s*$',r'^## Operating workflow\s*$',r'^## Quality gates\s*$',r'^## Integration\s*$',
  r'^## 10/10 Operating Contract(?: — mandatory quality bar)?\s*$',r'^### Task framing\s*$',r'^### Evidence discipline\s*$',r'^### Architecture discipline\s*$',

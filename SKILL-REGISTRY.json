@@ -1,72 +1,1523 @@
 {
+  "schema_version": "1.0",
+  "generated_at": "2026-09-06T23:26:58.031535Z",
+  "generator": "venu_runtime.registry.builder",
   "repository": "wazirlegacy/venu-skillset-plugin-devolopment",
-  "source": "ChatGPT Venu Skill Library",
-  "canonical_skill_count": 53,
-  "canonical_skills": [
-    "agent-evaluation-security-governance",
-    "agent-orchestration-workflows",
-    "agentic-memory-architecture",
-    "ai-infrastructure-vps-docker-runtime",
-    "ai-trading-research-agents",
-    "api-backend-engineering",
-    "blender-engineering",
-    "brand-fidelity-strategy",
-    "commerce-trade-mastery",
-    "computer-use",
-    "computer-vision",
-    "cybersecurity",
-    "design-open-source-and-research-discovery",
-    "devops-sre",
-    "docker-kubernetes",
-    "entrepreneurship-mastery",
-    "event-driven-agent-architecture",
-    "exchange-market-connectors",
-    "execution-controller-and-tool-governance",
-    "financial-risk",
-    "git-github-engineering",
-    "integrated-agentic-systems-architect",
-    "integrated-ai-development-architect",
-    "integrated-business-strategy",
-    "legal-law-mastery",
-    "linux-windows-automation",
-    "llm-model-engineering-and-serving",
-    "market-visual-research-and-ai-trading",
-    "marketing-management-mastery",
-    "mathematical-statistical-reasoning",
-    "mcp-tooling-and-ai-gateway-ecosystem",
-    "music-rights-metadata-governance",
-    "omniroute-gateway-and-adaptive-routing",
-    "python-engineering",
-    "quant-trading-research-engineering",
-    "rag-knowledge-memory-systems",
-    "react-nextjs-engineering",
-    "realtime-rag-engineering",
-    "research-evidence-and-provenance",
-    "risk-management-mastery",
-    "skill-evaluation-and-continuous-learning",
-    "skill-router-and-composer",
-    "speech-audio-engineering",
-    "sql-database-engineering",
-    "testing-qa",
-    "typescript-javascript-engineering",
-    "ui-ux-engineering",
-    "unity-engineering",
-    "venu-universal-engineering-orchestrator",
-    "vfx-motion-graphics",
-    "web-intelligence-and-browser-agents",
-    "web-rag-ocr-document-intelligence",
-    "webar-8thwall-zappar"
-  ],
-  "cross_cutting_extensions": [
-    "aar-loop-reflexion-evolution",
-    "llm-mcp-guardrails-mastery",
-    "voice-agent-systems-mastery",
-    "blender-mcp-integration-mastery",
-    "ai-observability-telemetry-mastery"
-  ],
-  "notes": [
-    "Canonical registry contains 53 Skills: 47 technical/AI + 6 Business Mastery.",
-    "Cross-cutting modules are packaged as extensions and do not change the canonical 53 count.",
-    "Production Skill changes should be versioned and evaluated before promotion."
+  "canonical_count": 53,
+  "cross_cutting_count": 5,
+  "total_count": 58,
+  "entries": [
+    {
+      "id": "agent-evaluation-security-governance",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Evaluate AI agents independently using behavioral, operational, governance, retrieval, tool-use, robustness, and audit controls inspired by iFixAi and modern agent observability practices.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/agent-evaluation-security-governance"
+      },
+      "source_hash": "a5f39bba52af5cd8427f37238c426280de4286605c85d3d448d6d1a93dda3c50",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "agent-orchestration-workflows",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design agent and workflow systems using LangChain/LangGraph, n8n, Dify, Langflow, tool calling, middleware, human approvals, structured outputs, state, and modular orchestration.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/agent-orchestration-workflows"
+      },
+      "source_hash": "619f5b56e6eecc2e28a41e7ad8b4fc565f58c67452a741314e7fd93b301cb674",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "agentic-memory-architecture",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design memory, retrieval, state, temporal context, and data architecture for reliable agentic AI systems. Use the supplied O'Reilly Agentic AI Data Architectures report plus independent RAG/agent research and current database documentation. Apply semantic, transactional, temporal, and event-oriented patterns with explicit consistency and latency trade-offs.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/agentic-memory-architecture"
+      },
+      "source_hash": "86d7924edb13a7bae92662e3dc680eeba3b833ef771604898f41b7d08b8cc26b",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "ai-infrastructure-vps-docker-runtime",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design deployable AI/trading infrastructure using Docker, VPS/cloud hosts, process isolation, persistent state, queues, observability, backups, and OpenAI-compatible service boundaries.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/ai-infrastructure-vps-docker-runtime"
+      },
+      "source_hash": "79598c38755ec101608b61483c87b538d8dd15e1623803390151a33b4c97cd94",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "ai-trading-research-agents",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Build multi-agent financial research systems using analyst, bull/bear debate, trader, risk, and portfolio roles with point-in-time data, provenance, decision logs, checkpoints, and safe execution boundaries.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/ai-trading-research-agents"
+      },
+      "source_hash": "b62c2f90d1591decbb117ab21ca37810979e8f7b48980f5fa87c54a0ad3c4af9",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "api-backend-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design secure reliable HTTP and event-driven backends with clear contracts, auth, authorization, idempotency, retries, rate limits, and observability.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/api-backend-engineering"
+      },
+      "source_hash": "6cba6683baa1eed0e02874a6cf97e16b8770f4a65b2e2583acd293ae18358527",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "blender-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Build procedural 3D, asset pipelines, Geometry Nodes, animation, rendering, compositing and Blender automation with Python.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/blender-engineering"
+      },
+      "source_hash": "0aafa90a1c96052c536e4baf39be56e5cd0b0e599247d9e0ab9f9b19d48817c4",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "brand-fidelity-strategy",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Diagnose and improve customer-brand relationships using the M+ Brand Fidelity framework from the supplied Material report, while separating proprietary source claims from independent evidence. Use for brand strategy, CX/product experience diagnosis, customer loyalty, positioning, consumer insight, and intervention roadmaps.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/brand-fidelity-strategy"
+      },
+      "source_hash": "cf00cda8672d9046b3c11a9ded1941a95f260f3f82c1f591e4bea85d57e8a8fd",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "commerce-trade-mastery",
+      "version": null,
+      "kind": "canonical",
+      "category": "business_mastery",
+      "maturity": null,
+      "description": "Expert commercial and international-trade reasoning covering contracts, Incoterms, CISG, customs, tariffs, origin, export controls, sanctions, logistics, trade finance, FX, tax interfaces, procurement, negotiation and cross-border risk.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/commerce-trade-mastery"
+      },
+      "source_hash": "476eecf48bcea15e42bf54e910ad212362c180ff1b435f62d48515fd1c2d9072",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "computer-use",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design safe browser/desktop computer-use agents using deterministic automation, model-guided interaction, screenshots/accessibility trees, verification loops and side-effect controls.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/computer-use"
+      },
+      "source_hash": "3434fb1972249fb315e5d14ead1790bdb7627f5ff6f1670c63f8fa776d5730db",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "computer-vision",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design image/video perception pipelines with camera geometry, preprocessing, features, detection, segmentation, tracking, OCR, deep models and evaluation.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/computer-vision"
+      },
+      "source_hash": "cfa66e2f11f55485c9dae0744847e14ffeeabdabf0ecbb3b86999b4d4c25e3c9",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "cybersecurity",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Perform authorized defensive security design, threat modeling, secure coding, application security verification, secrets and supply-chain defense.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/cybersecurity"
+      },
+      "source_hash": "4d8ef295f1b84cb6d209dbfb34ddfaf9aa45e817fd4d4ea0f2c102a76670250e",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "design-open-source-and-research-discovery",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Turn design-system, open-source discovery, curated awesome lists, free-tier catalogs, and AI-app examples into reliable engineering research inputs and reusable design/architecture patterns.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/design-open-source-and-research-discovery"
+      },
+      "source_hash": "21e4c46a8399ac86c6c39c1ea7174dd331bb0945bcd864d12a3b68df168c386d",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "devops-sre",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design reliable operations using CI/CD, SLOs, SLIs, error budgets, observability, incidents, capacity, backups and safe deployment.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/devops-sre"
+      },
+      "source_hash": "0aa26d53de143f6db335c5e56cb6e74a7815f56ffc3911ce78473d2fabe0ddaf",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "docker-kubernetes",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design secure containerized applications with Dockerfiles, Compose, Kubernetes workloads, networking, storage, probes, RBAC, secrets, and resource limits.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/docker-kubernetes"
+      },
+      "source_hash": "a63f0feac72ecd835242299f0d27bee2ef276e18d87334375cbdaa8c4a8c647d",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "entrepreneurship-mastery",
+      "version": null,
+      "kind": "canonical",
+      "category": "business_mastery",
+      "maturity": null,
+      "description": "Evidence-driven entrepreneurship from opportunity discovery through validation, business-model design, unit economics, GTM, sales, financing, hiring, operations, innovation, scaling and founder decision-making under uncertainty.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/entrepreneurship-mastery"
+      },
+      "source_hash": "e6093025d54321b2643f8b110fd0984a1539f1b3e3c7c7b484e95da86c87dfd5",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "event-driven-agent-architecture",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design resilient event-driven single-agent and multi-agent systems using the supplied Confluent guide plus independent event-driven architecture references. Cover agent anatomy, EDA, Orchestrator-Worker, Hierarchical, Blackboard, Market-Based patterns, event contracts, replay, idempotency, DLQs, observability, governance, and trade-offs.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/event-driven-agent-architecture"
+      },
+      "source_hash": "182963344f6b0fad974b43e8ba1a8bd1ff805736cc2a4ec07c6cf3547dde4a58",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "exchange-market-connectors",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design robust exchange and broker connectors using CCXT-style unified interfaces, capability detection, rate limiting, async streaming, normalization, retries, reconciliation, and venue-specific semantics.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/exchange-market-connectors"
+      },
+      "source_hash": "4f141eef5b90aa79d7afe80f148ff12baec7f1a9aed094055303b786ce468513",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "execution-controller-and-tool-governance",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": "10-of-10-target",
+      "description": "Control tool execution with explicit permissions, side-effect classification, approvals, sandboxing, postconditions, auditability and rollback.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/execution-controller-and-tool-governance"
+      },
+      "source_hash": "9df3d7e237275821d8db3dd18bd5af158dcbdca9318e6ec46853986bebad9094",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "financial-risk",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Model and govern market/trading risk with VaR, Expected Shortfall, drawdown, liquidity, factor exposure, leverage, limits, stress tests and model validation.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/financial-risk"
+      },
+      "source_hash": "97a21b05276d14dd170764835a4b215f5bebdf0c0dd0582ee06400a6d52527b8",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "git-github-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Use Git and GitHub for safe branching, history management, code review, CI/CD, releases and secure collaboration.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/git-github-engineering"
+      },
+      "source_hash": "35227aad61d923b9aceb29aa3a46d09251ed8f6df9f8e622f85230496e25c3c5",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "integrated-agentic-systems-architect",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Act as a systems architect combining the supplied Agentic AI, RAG, and event-driven architecture books with the brand-fidelity and music-metadata governance methods when relevant. Select architecture patterns, separate authoritative facts from semantic context, design event/RAG/memory layers, and produce implementation-ready trade-offs without vendor lock-in.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/integrated-agentic-systems-architect"
+      },
+      "source_hash": "4daae98463b81d16d55ae7904db87c36de727bd22339c1baf98bdfa1f641bca9",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "integrated-ai-development-architect",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Combine trading engines, exchange APIs, research agents, LLM runtimes, RAG/memory, browser intelligence, MCP, workflows, evaluation, and infrastructure into coherent production-oriented AI systems.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/integrated-ai-development-architect"
+      },
+      "source_hash": "4253d198b6985dd884807a0e564482469db0b939663e0e491e4c07ba1e093223",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "integrated-business-strategy",
+      "version": null,
+      "kind": "canonical",
+      "category": "business_mastery",
+      "maturity": null,
+      "description": "Executive-level cross-domain reasoning that integrates law, commerce, trade, marketing, management, risk and entrepreneurship into evidence-driven business decisions and execution plans.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/integrated-business-strategy"
+      },
+      "source_hash": "b37f068054486e09a0c056c49c89168feb7d6b9da1452b60a9ea78efea1e3fc8",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "legal-law-mastery",
+      "version": null,
+      "kind": "canonical",
+      "category": "business_mastery",
+      "maturity": null,
+      "description": "High-rigor legal research and business-law decision support across jurisdictions, with primary-source verification, issue spotting, statutory/regulatory analysis, contracts, corporate, commercial, competition, consumer, IP, privacy, employment, insolvency, dispute resolution and compliance.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/legal-law-mastery"
+      },
+      "source_hash": "1fede15953112b267782fd6e206607fff313ef47e60ff13d9330c376bb011ffb",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "linux-windows-automation",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Automate Linux and Windows safely using Bash, PowerShell, SSH, services, scheduled jobs, configuration-as-code, logs and permissions.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/linux-windows-automation"
+      },
+      "source_hash": "80c5f14db26d2d7eeb8dda2519816d49a259303f4f9f91b737b204d189c38d7b",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "llm-model-engineering-and-serving",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Engineer, train, optimize, quantize, and serve open-weight language models using Transformers, vLLM, llama.cpp, nanochat, Ornith-1.5, Hermes, and foundational Transformer research.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/llm-model-engineering-and-serving"
+      },
+      "source_hash": "85c08862761712d1298895ba17d2ec3a6d8a77779cdae720a3fd92cdd00448f0",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "market-visual-research-and-ai-trading",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Apply TradingView-style charting and alert concepts, BullGPT-style visual chart analysis workflows, and Latent Box-style curated research discovery. Use for chart interpretation, Pine Script strategy/alert design, technical-analysis research, visual trading-plan structuring, and curated AI/creative resource discovery. Do not claim hidden/proprietary model internals that sources do not disclose.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/market-visual-research-and-ai-trading"
+      },
+      "source_hash": "2580f842f13f409a14bd36e2d9f7e2e56c643aa493c4002f6d46ec90e978efae",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "marketing-management-mastery",
+      "version": null,
+      "kind": "canonical",
+      "category": "business_mastery",
+      "maturity": null,
+      "description": "Evidence-based marketing, brand, customer research, segmentation, positioning, pricing, growth, sales, GTM, analytics, management systems, leadership, organization, operations, quality and strategic execution.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/marketing-management-mastery"
+      },
+      "source_hash": "59bbfaa76c4a9a1c52b058e0fbc1123345da37d9ead8dbd2fcad76f889f32cde",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "mathematical-statistical-reasoning",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Apply probability, statistics, linear algebra, calculus, optimization, numerical methods, experimental design, time series and uncertainty quantification rigorously.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/mathematical-statistical-reasoning"
+      },
+      "source_hash": "d472ea25809b50b26a54b0b1569b51bf6a649ed9e39f29fcf7560bd71b37c0d4",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "mcp-tooling-and-ai-gateway-ecosystem",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design interoperable tool ecosystems using MCP, A2A, public APIs, n8n/Dify/Langflow tool surfaces, Hermes, OmniRoute, and curated MCP/server catalogs.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/mcp-tooling-and-ai-gateway-ecosystem"
+      },
+      "source_hash": "0e8c7c3ff5be39d4b74e28b132b49f6870cac2fc72d4f89fb0ebcbde173ff767",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "music-rights-metadata-governance",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Validate, reconcile, and govern music composition and sound-recording metadata for distribution, rights management, royalty matching, and catalog scalability. Use ISRC/ISWC/IPI concepts, ownership splits, identifier integrity, maturity assessment, and audit-ready workflows. This is operational guidance, not legal advice.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/music-rights-metadata-governance"
+      },
+      "source_hash": "e5b741d5effd12ece713e3b947447f8d9c966d65425fed21373ba9b629b3abf7",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "omniroute-gateway-and-adaptive-routing",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design, analyze, implement, debug, and evaluate OmniRoute-style AI gateways, including provider abstraction, OpenAI/Anthropic/Gemini translation, auto-combo routing, quota and health awareness, adaptive quality feedback, resilience, caching, compression, MCP/A2A, Skills, observability, and secure self-hosting. Use when a task involves multi-provider LLM gateways, intelligent model routing, failover, routing policies, provider health, quality-aware selection, MCP gateway design, or reproducing/modernizing OmniRoute architectural patterns.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/omniroute-gateway-and-adaptive-routing"
+      },
+      "source_hash": "647958edff7af2cd11500948f9a0b70df4b9a334ff32295970e5c3afcf786cb0",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "python-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design, implement, review, test, package, profile, and debug production Python systems with modern typing, async I/O, concurrency, packaging, testing, observability, and maintainability.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/python-engineering"
+      },
+      "source_hash": "e1064c8cd865dce2acf1d668da713a78e1fc2b2305f26c697800d4fe3f686d52",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "quant-trading-research-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design, backtest, validate, and compare quantitative trading systems using event-driven engines, realistic execution assumptions, statistical research hygiene, and research-to-live parity.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/quant-trading-research-engineering"
+      },
+      "source_hash": "4fd9bfcd910a15f0525deab157defc5d0410d6a75ec39793517fb81aa6e5b386",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "rag-knowledge-memory-systems",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design retrieval, knowledge bases, semantic memory, document processing, hybrid search, knowledge graphs, and long-lived context using LlamaIndex, RAGFlow, Supermemory, and related RAG patterns.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/rag-knowledge-memory-systems"
+      },
+      "source_hash": "aaa53632385d792780095852ea915fe5922ab72121e97a422232eeb05a784968",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "react-nextjs-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Architect React and Next.js applications using component purity, Server/Client Components, routing, data fetching, caching, accessibility, and performance.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/react-nextjs-engineering"
+      },
+      "source_hash": "894f5b84c55bf153160bab3cb6f83bda9deaa066a8ba42a66d147f59123ec840",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "realtime-rag-engineering",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Architect, debug, and evaluate production RAG systems using the supplied Confluent guide plus independent RAG research. Cover ingestion, chunking, embeddings, semantic and structured retrieval, query decomposition, caching, freshness, validation, provenance, security, metrics, and vendor-neutral implementation choices.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/realtime-rag-engineering"
+      },
+      "source_hash": "d33c1c5d268eab06bf638c29f470301b789ef66ec7f0b5ad57ca74be00e78cce",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "research-evidence-and-provenance",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": "10-of-10-target",
+      "description": "Perform deep technical research with primary-source verification, version tracking, evidence grading and provenance.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/research-evidence-and-provenance"
+      },
+      "source_hash": "a4d88482307939ee85ddbdcf30eadfa63f27a273707e1d885443f66e51e42424",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "risk-management-mastery",
+      "version": null,
+      "kind": "canonical",
+      "category": "business_mastery",
+      "maturity": null,
+      "description": "High-rigor enterprise risk, strategic risk, financial risk, operational resilience, legal/compliance, cyber, AI/model, third-party, supply-chain, project, geopolitical, safety and reputational risk management using scenario and control engineering.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/risk-management-mastery"
+      },
+      "source_hash": "cf0a8c57cdcaea977fda80a9f619341374caee13aa90d2dd29710dca09074c5a",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "skill-evaluation-and-continuous-learning",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": "10-of-10-target",
+      "description": "Evaluate Skills and composed workflows with reproducible benchmarks, adversarial tests, metrics, regression and controlled updates.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/skill-evaluation-and-continuous-learning"
+      },
+      "source_hash": "f8a997b43d3704116e1a98a5b7ef8f5baa690291cbefabeb1384dc2b3b5685ca",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "skill-router-and-composer",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": "10-of-10-target",
+      "description": "Select and compose the minimum sufficient Venu Skills for a task using intent, constraints, dependencies, risk, and required outputs.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/skill-router-and-composer"
+      },
+      "source_hash": "65a235fbd4c6407d69bea6cd8522c90077628cb69aa5d900c350282a7b64e879",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "speech-audio-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Build speech/audio pipelines for capture, resampling, loudness, codecs, VAD, ASR, diarization, TTS, streaming and browser integration.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/speech-audio-engineering"
+      },
+      "source_hash": "1ddd65762c7edc47e8771d77b28e81a55752d0d9028c1fc1f71a716f86a7393c",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "sql-database-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design relational schemas, transactions, indexes, queries, migrations, concurrency, and performance plans with PostgreSQL as primary reference.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/sql-database-engineering"
+      },
+      "source_hash": "78703b1ede42c9490525ee27223822d8dcc6f345fa3d88b885451c8f9d9aecda",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "testing-qa",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Create layered tests for unit, integration, API contracts, browser E2E, performance, accessibility, reliability and regression.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/testing-qa"
+      },
+      "source_hash": "67a22c62dda2667a89ed712120c8df1ea4b7559ce39531255a5875f559dee348",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "typescript-javascript-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Engineer modern JavaScript and TypeScript systems with strict type safety, ESM/CJS interoperability, runtime validation, async control flow, and maintainable modules.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/typescript-javascript-engineering"
+      },
+      "source_hash": "17ff70d2616b1ca4e1dcd97551dfe8da65efac87418ca2d9ba3f0521b355b089",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "ui-ux-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design accessible consistent interfaces with component systems, design tokens, responsive layout, Figma variables, Dev Mode and usability validation.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/ui-ux-engineering"
+      },
+      "source_hash": "0a3485830e3f6de51094f6c116a1cc6d1a33c7c9c721d9cd835c4358b78b4229",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "unity-engineering",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Architect Unity 6 C# applications with scenes, prefabs, ScriptableObjects, Addressables, Input System, rendering, profiling and build automation.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/unity-engineering"
+      },
+      "source_hash": "ec3c25fa385db02fedefb3506e8c7bb956670fc1099c2f40e1ddc237a0bf1a8c",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "venu-universal-engineering-orchestrator",
+      "version": "1.0",
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": "10-of-10-target",
+      "description": "Orchestrate the complete Venu engineering loop across Skills, models, research, tools, memory, validation and deployment.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/venu-universal-engineering-orchestrator"
+      },
+      "source_hash": "4f984c0c40db5640a4836eb3bd022edb2c6bde3ac92b6b4c93127df6e1526ab0",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "vfx-motion-graphics",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Plan and execute compositing, motion graphics, expressions, procedural animation, color, render and media-processing workflows across After Effects and Blender.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/vfx-motion-graphics"
+      },
+      "source_hash": "ea8f7de3d93738a4f4107b0b6a878faeb89c0f36d666f5cdd5664ac26fe7c9b6",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "web-intelligence-and-browser-agents",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Engineer browser automation and web intelligence pipelines using Browser Use and Firecrawl with sessions, extraction, crawling, browser state, structured outputs, retry policies, and provenance.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/web-intelligence-and-browser-agents"
+      },
+      "source_hash": "6c29f5ba0e701385dcda6b2d32cd2a3caa9c5bd32ec1e9c464543fd6521d1fc4",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "web-rag-ocr-document-intelligence",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Build document and web ingestion systems using Firecrawl, RAGFlow/DeepDoc, Unlimited-OCR, OCR/VLM paths, and provenance-aware extraction for RAG and agents.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/web-rag-ocr-document-intelligence"
+      },
+      "source_hash": "c4c4b8ccad4a7b990cacf192c11b6abdf5af420f253025a1ab823f4b2ce1f9b2",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "webar-8thwall-zappar",
+      "version": null,
+      "kind": "canonical",
+      "category": "technical",
+      "maturity": null,
+      "description": "Design WebAR experiences with image/world/face tracking, camera permissions, 3D web rendering, Unity WebGL, target training, mobile performance and migration-aware deployment.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": true,
+        "static_checks_passed": 11,
+        "static_checks_total": 11,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/webar-8thwall-zappar"
+      },
+      "source_hash": "57764e0666d46f0d3ce65e059d4de3eeab070d525f9c264e7435dfee7367014e",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "aar-loop-reflexion-evolution",
+      "version": null,
+      "kind": "cross_cutting",
+      "category": "cross_cutting",
+      "maturity": null,
+      "description": "Run evidence-grounded After Action Reviews over completed agent tasks or sessions, distinguish expected from actual behavior, identify causal gaps, extract concrete checkable lessons, and convert validated lessons into approved skill/rule/regression improvements. Use after meaningful tasks, failures, surprises, recoveries, releases, or at explicit user request for an AAR, review, learning, or fix.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/_cross-cutting/aar-loop-reflexion-evolution"
+      },
+      "source_hash": "3387eb8985a67c591c197f0ed105208365b38c93a1405f92a93bc45ddc7b0ff7",
+      "validation_status": "fail",
+      "validation_findings": [
+        "frontmatter: YAML parse error: mapping values are not allowed here\n  in \"<unicode string>\", line 2, column 13:\n     description: Run evidence-grounded After Ac ... \n                ^"
+      ]
+    },
+    {
+      "id": "ai-observability-telemetry-mastery",
+      "version": null,
+      "kind": "cross_cutting",
+      "category": "cross_cutting",
+      "maturity": null,
+      "description": "High-assurance observability, logging, tracing, metrics, telemetry governance, cost control, auditability, AI-agent diagnosis, feedback loops, and preventive operations.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/_cross-cutting/ai-observability-telemetry-mastery"
+      },
+      "source_hash": "ce3605208c522f15e7f1d20d9c3071e0db36b0f5896def98cfe7de32686552aa",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "blender-mcp-integration-mastery",
+      "version": null,
+      "kind": "cross_cutting",
+      "category": "cross_cutting",
+      "maturity": null,
+      "description": "High-assurance Blender MCP integration and agent workflow skill. Use for connecting AI agents to Blender, inspecting scenes, validating Blender/API versions, executing bounded Blender operations, rendering/visual verification, asset workflows, recovery, telemetry, and MCP-aware tool orchestration.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/_cross-cutting/blender-mcp-integration-mastery"
+      },
+      "source_hash": "aae0d208e9460a0da2653fb8ed516c208350e2af400b46316c70d68cb57af165",
+      "validation_status": "pass",
+      "validation_findings": []
+    },
+    {
+      "id": "llm-mcp-guardrails-mastery",
+      "version": "2.0",
+      "kind": "cross_cutting",
+      "category": "cross_cutting",
+      "maturity": "10-of-10-target",
+      "description": "Govern LLM and MCP tool execution with deterministic authorization, layered guardrails, prompt-injection resistance, tool-risk classification, least privilege, approvals, sandboxing, postconditions, provenance, auditability and rollback.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/_cross-cutting/llm-mcp-guardrails-mastery"
+      },
+      "source_hash": "09a56c5d1ebd01e095752feed1c599e2bce951bf09727b2bcf8a6beb4025977a",
+      "validation_status": "warning",
+      "validation_findings": [
+        "frontmatter name 'execution-controller-and-tool-governance' does not match directory name 'llm-mcp-guardrails-mastery'"
+      ]
+    },
+    {
+      "id": "voice-agent-systems-mastery",
+      "version": null,
+      "kind": "cross_cutting",
+      "category": "cross_cutting",
+      "maturity": null,
+      "description": "High-assurance real-time voice-agent architecture, conversational UX, orchestration, telephony, multilingual behavior, deployment, resilience, observability, compliance, evaluation, and continuous improvement.",
+      "declared_tool_scopes": [],
+      "cross_cutting_dependencies": [],
+      "risk_tier": "unclassified",
+      "benchmark_status": {
+        "tier": "specification_quality",
+        "static_checks_available": false,
+        "static_checks_passed": null,
+        "static_checks_total": null,
+        "runtime_cases_pending": 5
+      },
+      "provenance": {
+        "source_repository": "wazirlegacy/venu-skillset-plugin-devolopment",
+        "source_commit": "5f4185e1e2a48e8383dffa8a2444c659921581d4",
+        "relative_path": "skills/_cross-cutting/voice-agent-systems-mastery"
+      },
+      "source_hash": "e87eebfa37ef81308efeb8bc8c146c5216d0c0f80104f0bcee2cd0a50c651003",
+      "validation_status": "pass",
+      "validation_findings": []
+    }
   ]
 }
